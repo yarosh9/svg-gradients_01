@@ -14,13 +14,13 @@
     <linearGradient id="linearGradient7" 
       x1="0%" y1="0%" x2="0%" y2="25%" spreadMethod="reflect">
       <stop offset="0.000" style="stop-color:#001122;stop-opacity:1" />
-      <stop offset="0.250" style="stop-color:#ffff00;stop-opacity:1" />
+      <stop offset="0.250" style="stop-color:#00ffff;stop-opacity:1" />
       <stop offset="0.499" style="stop-color:#001122;stop-opacity:1" />
       <stop offset="0.499" style="stop-color:#001122;stop-opacity:1" />
-      <stop offset="0.500" style="stop-color:#ffff00;stop-opacity:1" />
+      <stop offset="0.500" style="stop-color:#00ffff;stop-opacity:1" />
       <stop offset="0.501" style="stop-color:#001122;stop-opacity:1" />
       <stop offset="0.501" style="stop-color:#001122;stop-opacity:1" />
-      <stop offset="0.750" style="stop-color:#ffff00;stop-opacity:1" />
+      <stop offset="0.750" style="stop-color:#00ffff;stop-opacity:1" />
       <stop offset="1.000" style="stop-color:#001122;stop-opacity:1" />
     </linearGradient>
     <radialGradient 
