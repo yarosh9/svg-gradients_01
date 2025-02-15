@@ -18,8 +18,8 @@
       <stop offset="0.499" style="stop-color:#001122;stop-opacity:1" />
       <stop offset="0.499" style="stop-color:#001122;stop-opacity:1" />
       <stop offset="0.500" style="stop-color:#ff0000;stop-opacity:1" />
-      <stop offset="0.505" style="stop-color:#001122;stop-opacity:1" />
-      <stop offset="0.506" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.509" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.509" style="stop-color:#001122;stop-opacity:1" />
       <stop offset="0.750" style="stop-color:#ff0000;stop-opacity:1" />
       <stop offset="1.000" style="stop-color:#001122;stop-opacity:1" />
     </linearGradient>
