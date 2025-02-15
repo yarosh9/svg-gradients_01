@@ -30,7 +30,7 @@
        cy="105"
        fx="105"
        fy="105"
-       r="200"
+       r="100"
        gradientUnits="userSpaceOnUse"
        spreadMethod="reflect" />
   </defs>
