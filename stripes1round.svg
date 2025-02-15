@@ -12,7 +12,7 @@
    version="1.1">
   <defs>
     <linearGradient id="linearGradient7" 
-      x1="0%" y1="0%" x2="0%" y2="25%" spreadMethod="reflect">
+      x1="0%" y1="0%" x2="0%" y2="20%" spreadMethod="reflect">
       <stop offset="0.000" style="stop-color:#001122;stop-opacity:1" />
       <stop offset="0.250" style="stop-color:#ff0000;stop-opacity:1" />
       <stop offset="0.499" style="stop-color:#001122;stop-opacity:1" />
