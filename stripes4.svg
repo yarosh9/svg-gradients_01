@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 512 512"
+   height="512"
+   width="512">
+  <defs>
+    <linearGradient id="linearGradient7">
+      <stop offset="0.000" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.088" style="stop-color:#ffff00;stop-opacity:1" />
+      <stop offset="0.420" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.484" style="stop-color:#001122;stop-opacity:1" />
+
+      <stop offset="0.486" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.488" style="stop-color:#ffff00;stop-opacity:1" />
+      <stop offset="0.490" style="stop-color:#001122;stop-opacity:1" />
+
+      <stop offset="0.492" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.494" style="stop-color:#ffff00;stop-opacity:1" />
+      <stop offset="0.496" style="stop-color:#001122;stop-opacity:1" />
+
+      <stop offset="0.498" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.500" style="stop-color:#ffff00;stop-opacity:1" />
+      <stop offset="0.502" style="stop-color:#001122;stop-opacity:1" />
+
+      <stop offset="0.504" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.506" style="stop-color:#ffff00;stop-opacity:1" />
+      <stop offset="0.508" style="stop-color:#001122;stop-opacity:1" />
+      
+      <stop offset="0.510" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.512" style="stop-color:#ffff00;stop-opacity:1" />
+      <stop offset="0.514" style="stop-color:#001122;stop-opacity:1" />
+
+      <stop offset="0.516" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.580" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.912" style="stop-color:#ffff00;stop-opacity:1" />
+      <stop offset="1.000" style="stop-color:#001122;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect
+     y="0"
+     x="0"
+     height="512"
+     width="512"
+     style="fill:url(#linearGradient7);stroke:none"
+     transform="rotate(90, 256, 256)" />
+  <rect
+     y="0"
+     x="0"
+     height="512"
+     width="512"
+     style="fill:url(#linearGradient7);stroke:none;opacity:0.5"
+     transform="rotate(0)" />
+</svg>

@@ -6,9 +6,9 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   width="210mm"
-   height="210mm"
-   viewBox="0 0 210 210"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
    version="1.1">
   <defs>
     <linearGradient id="linearGradient7" 
@@ -26,32 +26,31 @@
     <radialGradient 
        xlink:href="#linearGradient7"
        id="radialGradient77"
-       cx="105"
-       cy="105"
-       fx="105"
-       fy="105"
-       r="170"
+       cx="256"
+       cy="256"
+       fx="256"
+       fy="256"
+       r="400"
        gradientUnits="userSpaceOnUse"
        spreadMethod="reflect" />
   </defs>
   <rect
-     y="-210"
+     y="0"
      x="0"
-     height="210"
-     width="210"
+     height="512"
+     width="512"
      style="fill:url(#linearGradient7);stroke:none;opacity:1"
-     transform="rotate(90)" />
+     transform="rotate(90, 256, 256)" />
   <rect
      y="0"
      x="0"
-     height="210"
-     width="210"
-     style="fill:url(#linearGradient7);stroke:none;opacity:0.5"
-     transform="rotate(0)" />
+     height="512"
+     width="512"
+     style="fill:url(#linearGradient7);stroke:none;opacity:0.5" />
   <rect
      y="0"
      x="0"
-     height="210"
-     width="210"
+     height="512"
+     width="512"
      style="fill:url(#radialGradient77);stroke:none;opacity:0.46" /> 
 </svg>

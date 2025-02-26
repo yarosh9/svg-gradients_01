@@ -12,16 +12,16 @@
    version="1.1">
   <defs>
     <linearGradient id="linearGradient7" 
-      x1="0%" y1="0%" x2="0%" y2="33.333%" spreadMethod="reflect">
-      <stop offset="0.000" style="stop-color:#001122;stop-opacity:1" />
-      <stop offset="0.250" style="stop-color:#ffff00;stop-opacity:1" />
-      <stop offset="0.499" style="stop-color:#001122;stop-opacity:1" />
-      <stop offset="0.499" style="stop-color:#001122;stop-opacity:1" />
+      x1="0%" y1="0%" x2="12.5%" y2="12.5%" spreadMethod="reflect">
+      <stop offset="0.000" style="stop-color:#000102;stop-opacity:1" />
+      <stop offset="0.250" style="stop-color:#aaff00;stop-opacity:1" />
+      <stop offset="0.479" style="stop-color:#000102;stop-opacity:1" />
+      <stop offset="0.479" style="stop-color:#000102;stop-opacity:1" />
       <stop offset="0.500" style="stop-color:#ffff00;stop-opacity:1" />
-      <stop offset="0.509" style="stop-color:#001122;stop-opacity:1" />
-      <stop offset="0.509" style="stop-color:#001122;stop-opacity:1" />
-      <stop offset="0.750" style="stop-color:#ffff00;stop-opacity:1" />
-      <stop offset="1.000" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.519" style="stop-color:#000102;stop-opacity:1" />
+      <stop offset="0.519" style="stop-color:#000102;stop-opacity:1" />
+      <stop offset="0.750" style="stop-color:#aaff00;stop-opacity:1" />
+      <stop offset="1.000" style="stop-color:#000102;stop-opacity:1" />
     </linearGradient>
     <radialGradient 
        xlink:href="#linearGradient7"
@@ -29,8 +29,8 @@
        cx="256"
        cy="256"
        fx="256"
-       fy="256"
-       r="244"
+       fy="1"
+       r="46"
        gradientUnits="userSpaceOnUse"
        spreadMethod="reflect" />
   </defs>
@@ -53,5 +53,12 @@
      x="0"
      height="512"
      width="512"
-     style="fill:url(#radialGradient77);stroke:none;opacity:0.46" /> 
+     style="fill:url(#radialGradient77);stroke:none;opacity:0.35" /> 
+  <rect
+     y="0"
+     x="0"
+     height="512"
+     width="512"
+     transform="rotate(180, 256, 256)"
+     style="fill:url(#radialGradient77);stroke:none;opacity:0.35" /> 
 </svg>
