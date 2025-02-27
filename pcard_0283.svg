@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 512 512"
+   width="512"
+   height="512"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg" >
+<defs>
+<!-- fon gradient -->
+<linearGradient
+   x1="0"
+   y1="0"
+   x2="0"
+   y2="1"
+   spreadMethod="reflect"
+   id="fon">
+  <stop style="stop-color:#ff0000;stop-opacity:1" offset="0.000" />
+  <stop style="stop-color:#ffcc00;stop-opacity:1" offset="0.130" />
+  <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.300" />
+  <stop style="stop-color:#00ff00;stop-opacity:1" offset="0.400" />
+  <stop style="stop-color:#00ffff;stop-opacity:1" offset="0.580" />
+  <stop style="stop-color:#0000ff;stop-opacity:1" offset="0.780" />
+  <stop style="stop-color:#ff00ff;stop-opacity:1" offset="0.950" />
+  <stop style="stop-color:#ff0000;stop-opacity:1" offset="1.000" />
+</linearGradient>
+<!-- fat mask gradients -->
+<linearGradient
+   x1="0"
+   y1="0"
+   x2="0"
+   y2="0.05"
+   spreadMethod="repeat"
+   id="fatmask">
+  <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.000" />
+  <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.600" />
+  <stop style="stop-color:#000000;stop-opacity:0" offset="0.601" />
+  <stop style="stop-color:#000000;stop-opacity:0" offset="1.000" />
+</linearGradient>
+<linearGradient
+   x1="0"
+   y1="0"
+   x2="0"
+   y2="1"
+   spreadMethod="reflect"
+   id="fatmaskGR">
+  <stop style="stop-color:#003399;stop-opacity:1" offset="0.000" />
+  <stop style="stop-color:#00aacc;stop-opacity:1" offset="1.000" />
+</linearGradient>
+<!-- end -->
+<!-- thin dark mask gradients -->
+<linearGradient
+   x1="0"
+   y1="0"
+   x2="0" 
+   y2="0.25"
+   spreadMethod="repeat"
+   id="thindarkmask">
+  <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.000" />
+  <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.200" />
+  <stop style="stop-color:#000000;stop-opacity:0" offset="0.201" />
+  <stop style="stop-color:#000000;stop-opacity:0" offset="1.000" />
+</linearGradient>
+<linearGradient
+   x1="0"
+   y1="0"
+   x2="0"
+   y2="1"
+   spreadMethod="reflect"
+   id="thindarkmaskGR">
+  <stop style="stop-color:#0022ff;stop-opacity:1" offset="0.000" />
+  <stop style="stop-color:#000000;stop-opacity:1" offset="1.000" />
+</linearGradient>
+<!-- end -->
+<!-- thin light mask gradients -->
+<linearGradient
+   x1="0"
+   y1="0"
+   x2="0" 
+   y2="0.005"
+   spreadMethod="repeat"
+   id="lightmask">
+  <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.000" />
+  <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.200" />
+  <stop style="stop-color:#000000;stop-opacity:0" offset="0.201" />
+  <stop style="stop-color:#000000;stop-opacity:0" offset="1.000" />
+</linearGradient>
+<linearGradient
+   x1="0"
+   y1="0"
+   x2="0"
+   y2="1"
+   spreadMethod="reflect"
+   id="lightmaskGR">
+  <stop style="stop-color:#ffaaaa;stop-opacity:1" offset="0.000" />
+  <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.300" />
+  <stop style="stop-color:#000000;stop-opacity:1" offset="1.000" />
+</linearGradient>
+<!-- end -->
+<!-- end gradients-->
+<!-- fat mask -->
+<mask id="Mask1">
+  <rect
+     style="fill:url(#fatmask);fill-opacity:1;stroke:none"
+     width="512"
+     height="512"
+     x="0"
+     y="0" />
+</mask>
+<!-- end -->
+<!-- thin dakr mask -->
+<mask id="Mask2">
+  <rect
+     style="fill:url(#thindarkmask);fill-opacity:1;stroke:none"
+     width="512"
+     height="512"
+     x="0"
+     y="0" />
+</mask>
+<!-- end -->
+<!-- thin light mask -->
+<mask id="Mask3">
+  <rect
+     style="fill:url(#lightmask);fill-opacity:1;stroke:none"
+     width="512"
+     height="512"
+     x="0"
+     y="0" />
+</mask>
+<!-- end -->
+</defs>
+   <rect
+     style="fill:url(#fon);fill-opacity:1;stroke:none"
+     width="512"
+     height="512"
+     x="0"
+     y="0" />
+   <rect
+     style="fill:url(#fatmaskGR);mask:url(#Mask1);fill-opacity:0.3;stroke:none"
+     width="512"
+     height="512"
+     x="0"
+     y="0" />
+   <rect
+     style="fill:url(#thindarkmaskGR);mask:url(#Mask2);fill-opacity:0.1;stroke:none"
+     width="512"
+     height="512"
+     x="0"
+     y="0"  />
+   <rect
+     style="fill:url(#lightmaskGR);mask:url(#Mask3);fill-opacity:0.5;stroke:none"
+     width="512"
+     height="512"
+     x="0"
+     y="0"  />
+</svg>
