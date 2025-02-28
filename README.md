@@ -2,7 +2,7 @@
 
 A collection of **67 pure gradients** in SVG format. No patterns, just **linear and radial gradients**, along with masks.  
 
-![Preview](1234123.jpg)  
+![Preview](1324123.jpg)  
 
 ## 🔹 About  
 
