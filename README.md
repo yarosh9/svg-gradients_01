@@ -20,8 +20,8 @@ All gradients are stored in the root directory as **SVG files**.
 
 ## 📜 License  
 
-All gradients are released under **CC0 1.0 Universal (Public Domain)**.  
-You can use them **freely** for personal and commercial projects **without attribution**.  
+These gradients are licensed under **CC BY 4.0 (Attribution 4.0 International)**.  
+You are free to use them for personal and commercial projects, **but please give credit** by linking to this repository or mentioning the author.  
 
 ## 💡 Inspiration  
 
