@@ -6,34 +6,69 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   enable-background="new"
    version="1.1"
    viewBox="0 0 512 512"
    height="512"
    width="512">
   <defs>
-    <linearGradient id="linearGradient7">
-      <stop offset="0.00" style="stop-color:#ff9900;stop-opacity:1" />
-      <stop offset="0.03" style="stop-color:#ff8800;stop-opacity:1" />
-      <stop offset="0.97" style="stop-color:#000913;stop-opacity:1" />
-      <stop offset="1.00" style="stop-color:#000913;stop-opacity:1" />
+    <linearGradient
+      id="linearGradient821">
+      <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.00" />
+      <stop style="stop-color:#111111;stop-opacity:1" offset="0.30" />
+      <stop style="stop-color:#444444;stop-opacity:1" offset="0.80" />
+      <stop style="stop-color:#000000;stop-opacity:1" offset="1.00" />
     </linearGradient>
-    <radialGradient 
-       xlink:href="#linearGradient7"
-       id="radialGradient77"
-       cx="256"
-       cy="260"
-       fx="256"
-       fy="55"
-       r="240"
-       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="0" y1="0" x2="0.3" y2="0.8"
+       spreadMethod="reflect"
+       id="linearGradient822"
+       xlink:href="#linearGradient821" />
+    <linearGradient
+       x1="0.8" y1="0" x2="0" y2="0.5"
+       spreadMethod="reflect"
+       id="linearGradient822a"
+       xlink:href="#linearGradient821" />
+
+    <linearGradient
+       x1="0" y1="0" x2="0.09" y2="0.05"
+       spreadMethod="reflect"
+       id="linearGradient823"
+       xlink:href="#linearGradient821" />
+    <linearGradient
+       x1="0.039" y1="0" x2="0" y2="0.05"
+       spreadMethod="reflect"
+       id="linearGradient824"
+       xlink:href="#linearGradient821" />
   </defs>
+ 
     <rect
-       style="
-       fill:url(#radialGradient77);
-       fill-opacity:1;"
-       width="512"
-       height="512"
+       y="0"
        x="0"
-       y="0" />
+       height="512"
+       width="512"
+       transform="rotate(0, 256, 256)" 
+       style="opacity:1;fill:url(#linearGradient822);stroke:none" />
+    <rect
+       y="0"
+       x="0"
+       height="512"
+       width="512"
+       transform="rotate(90, 256, 256)" 
+       style="opacity:0.4;fill:url(#linearGradient822a);stroke:none" />   
+    
+    <rect
+       y="0"
+       x="0"
+       height="512"
+       width="512"
+       style="opacity:0.4;fill:url(#linearGradient823);stroke:none" />
+    <rect
+       y="0"
+       x="0"
+       height="512"
+       width="512"
+       transform="rotate(90, 256, 256)" 
+       style="opacity:0.4;fill:url(#linearGradient824);stroke:none" />
+
+
 </svg>
