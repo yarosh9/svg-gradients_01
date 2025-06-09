@@ -81,8 +81,8 @@
    y2="1"
    spreadMethod="repeat"
    id="linearGradient1381">
-  <stop style="stop-color:#002277;stop-opacity:1" offset="0.000" />
-  <stop style="stop-color:#996600;stop-opacity:1" offset="1.000" />
+  <stop style="stop-color:#000077;stop-opacity:1" offset="0.000" />
+  <stop style="stop-color:#0011dd;stop-opacity:1" offset="1.000" />
 </linearGradient>
 <linearGradient
    x1="0"
@@ -92,7 +92,7 @@
    spreadMethod="repeat"
    id="linearGradient1380">
   <stop style="stop-color:#1199ee;stop-opacity:1" offset="0.000" />
-  <stop style="stop-color:#ee9900;stop-opacity:1" offset="1.000" />
+  <stop style="stop-color:#00ee99;stop-opacity:1" offset="1.000" />
 </linearGradient>
     <mask
        id="Mask">

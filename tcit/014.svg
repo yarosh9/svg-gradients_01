@@ -16,24 +16,24 @@
    spreadMethod="reflect"
    id="linearGradient1382">
   <stop style="stop-color:#000000;stop-opacity:0" offset="0.000" />
-  <stop style="stop-color:#000001;stop-opacity:0" offset="0.100" />
-  <stop style="stop-color:#00ffef;stop-opacity:0.2" offset="0.101" />
-  <stop style="stop-color:#00ffee;stop-opacity:0.2" offset="0.400" />
+  <stop style="stop-color:#010001;stop-opacity:0" offset="0.100" />
+  <stop style="stop-color:#ff00ff;stop-opacity:0.2" offset="0.101" />
+  <stop style="stop-color:#ee00ee;stop-opacity:0.2" offset="0.400" />
 
-  <stop style="stop-color:#003355;stop-opacity:1" offset="0.440" />
-  <stop style="stop-color:#00ddff;stop-opacity:1" offset="0.450" />
+  <stop style="stop-color:#440044;stop-opacity:1" offset="0.440" />
+  <stop style="stop-color:#aa00ff;stop-opacity:1" offset="0.450" />
 
-  <stop style="stop-color:#001122;stop-opacity:1" offset="0.495" />
-  <stop style="stop-color:#00ffff;stop-opacity:1" offset="0.500" />
-  <stop style="stop-color:#001122;stop-opacity:1" offset="0.505" />
+  <stop style="stop-color:#110022;stop-opacity:1" offset="0.495" />
+  <stop style="stop-color:#ff0000;stop-opacity:1" offset="0.500" />
+  <stop style="stop-color:#220011;stop-opacity:1" offset="0.505" />
 
-  <stop style="stop-color:#00ddff;stop-opacity:1" offset="0.550" />
-  <stop style="stop-color:#003355;stop-opacity:1" offset="0.560" />
+  <stop style="stop-color:#dd00ff;stop-opacity:1" offset="0.550" />
+  <stop style="stop-color:#330055;stop-opacity:1" offset="0.560" />
   
-  <stop style="stop-color:#00ddfe;stop-opacity:0.2" offset="0.599" />
-  <stop style="stop-color:#00ddff;stop-opacity:0.2" offset="0.600" />
+  <stop style="stop-color:#dd00ff;stop-opacity:0.2" offset="0.599" />
+  <stop style="stop-color:#ff00aa;stop-opacity:0.2" offset="0.600" />
   <stop style="stop-color:#000000;stop-opacity:0" offset="0.900" />
-  <stop style="stop-color:#000001;stop-opacity:0" offset="1.000" />
+  <stop style="stop-color:#010001;stop-opacity:0" offset="1.000" />
 </linearGradient>
 <linearGradient
    x1="0"

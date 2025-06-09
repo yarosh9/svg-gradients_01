@@ -11,15 +11,15 @@
     <linearGradient
        id="linearGradient1381"
        spreadMethod="reflect">
-      <stop style="stop-color:#00aacc;stop-opacity:1" offset="0.000" />
-      <stop style="stop-color:#001155;stop-opacity:1" offset="0.250" />
+      <stop style="stop-color:#00cccc;stop-opacity:1" offset="0.000" />
+      <stop style="stop-color:#001111;stop-opacity:1" offset="0.250" />
       <stop style="stop-color:#00cccc;stop-opacity:1" offset="0.497" />
-      <stop style="stop-color:#00cccc;stop-opacity:1" offset="0.499" />
-      <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.500" />
-      <stop style="stop-color:#00cccc;stop-opacity:1" offset="0.503" />
+      <stop style="stop-color:#00ffff;stop-opacity:1" offset="0.499" />
+      <stop style="stop-color:#00ffff;stop-opacity:1" offset="0.500" />
+      <stop style="stop-color:#00ffff;stop-opacity:1" offset="0.503" />
       <stop style="stop-color:#00cccc;stop-opacity:1" offset="0.505" />
-      <stop style="stop-color:#0055ff;stop-opacity:1" offset="0.750" />
-      <stop style="stop-color:#00aacc;stop-opacity:1" offset="1.000" />
+      <stop style="stop-color:#001111;stop-opacity:1" offset="0.750" />
+      <stop style="stop-color:#00cccc;stop-opacity:1" offset="1.000" />
     </linearGradient>
     <linearGradient
        xlink:href="#linearGradient1381"
@@ -69,13 +69,13 @@
      x="0"
      y="-512" />
   <rect
-     style="fill:url(#linearGradient1383);fill-opacity:0.1;stroke:none"
+     style="fill:url(#linearGradient1383);fill-opacity:0.15;stroke:none"
      width="512"
      height="512"
      x="0"
      y="0" />
   <rect
-     style="fill:url(#linearGradient1383);fill-opacity:0.1;stroke:none"
+     style="fill:url(#linearGradient1383);fill-opacity:0.15;stroke:none"
      transform="rotate(90)"
      width="512"
      height="512"

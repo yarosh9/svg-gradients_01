@@ -13,79 +13,79 @@
   <defs>
     <linearGradient
        id="linearGradient821">
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.000" />
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.010" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.000" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.010" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.010" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.011" />
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.011" />
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.020" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.011" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.020" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.020" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.021" />
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.021" />
-      <stop style="stop-color:#004455;stop-opacity:1" offset="0.230" />
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.230" />
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.231" />
-      <stop style="stop-color:#004455;stop-opacity:1" offset="0.231" />
-      <stop style="stop-color:#004455;stop-opacity:1" offset="0.240" />
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.240" />
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.241" />
-      <stop style="stop-color:#004455;stop-opacity:1" offset="0.241" />
-      <stop style="stop-color:#004455;stop-opacity:1" offset="0.250" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.021" />
+      <stop style="stop-color:#004411;stop-opacity:1" offset="0.230" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.230" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.231" />
+      <stop style="stop-color:#004411;stop-opacity:1" offset="0.231" />
+      <stop style="stop-color:#004411;stop-opacity:1" offset="0.240" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.240" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.241" />
+      <stop style="stop-color:#004411;stop-opacity:1" offset="0.241" />
+      <stop style="stop-color:#004411;stop-opacity:1" offset="0.250" />
 
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.250" />
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.260" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.250" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.260" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.260" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.261" />
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.261" />
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.270" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.261" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.270" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.270" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.271" />
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.271" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.271" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.480" />
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.480" />
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.481" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.480" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.481" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.481" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.490" />
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.490" />
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.491" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.490" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.491" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.491" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.500" />
 
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.500" />
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.510" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.500" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.510" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.510" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.511" />
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.511" />
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.520" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.511" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.520" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.520" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.521" />
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.521" />
-      <stop style="stop-color:#004455;stop-opacity:1" offset="0.730" />
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.730" />
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.731" />
-      <stop style="stop-color:#004455;stop-opacity:1" offset="0.731" />
-      <stop style="stop-color:#004455;stop-opacity:1" offset="0.740" />
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.740" />
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.741" />
-      <stop style="stop-color:#004455;stop-opacity:1" offset="0.741" />
-      <stop style="stop-color:#004455;stop-opacity:1" offset="0.750" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.521" />
+      <stop style="stop-color:#004411;stop-opacity:1" offset="0.730" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.730" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.731" />
+      <stop style="stop-color:#004411;stop-opacity:1" offset="0.731" />
+      <stop style="stop-color:#004411;stop-opacity:1" offset="0.740" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.740" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.741" />
+      <stop style="stop-color:#004411;stop-opacity:1" offset="0.741" />
+      <stop style="stop-color:#004411;stop-opacity:1" offset="0.750" />
 
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.750" />
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.760" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.750" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.760" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.760" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.761" />
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.761" />
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.770" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.761" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.770" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.770" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.771" />
-      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.771" />
+      <stop style="stop-color:#55ff00;stop-opacity:1" offset="0.771" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.980" />
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.980" />
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.981" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.980" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.981" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.981" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.990" />
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.990" />
-      <stop style="stop-color:#00ccff;stop-opacity:1" offset="0.991" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.990" />
+      <stop style="stop-color:#00ffaa;stop-opacity:1" offset="0.991" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="0.991" />
       <stop style="stop-color:#444400;stop-opacity:1" offset="1.000" />
     </linearGradient>

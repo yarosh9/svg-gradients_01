@@ -10,59 +10,59 @@
 <defs>
     <linearGradient
         x1="0" 
-        y1="1" 
-        x2="0" 
+        y1="0.25" 
+        x2="0.07" 
         y2="0"
         id="fon"
         spreadMethod="reflect">
-          <stop style="stop-color:#000020;stop-opacity:1" offset="0.000" />
-          <stop style="stop-color:#000020;stop-opacity:1" offset="0.050" />
-          <stop style="stop-color:#aa2200;stop-opacity:1" offset="0.500" />
-          <stop style="stop-color:#ff0000;stop-opacity:1" offset="0.504" />
-          <stop style="stop-color:#aa2200;stop-opacity:1" offset="0.550" />
-          <stop style="stop-color:#000020;stop-opacity:1" offset="0.950" />
-          <stop style="stop-color:#000020;stop-opacity:1" offset="1.000" />
+          <stop style="stop-color:#202020;stop-opacity:1" offset="0.000" />
+          <stop style="stop-color:#202020;stop-opacity:1" offset="0.050" />
+          <stop style="stop-color:#888888;stop-opacity:1" offset="0.500" />
+          <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.503" />
+          <stop style="stop-color:#888888;stop-opacity:1" offset="0.506" />
+          <stop style="stop-color:#202020;stop-opacity:1" offset="0.950" />
+          <stop style="stop-color:#202020;stop-opacity:1" offset="1.000" />
     </linearGradient>
     <linearGradient
         x1="0" 
-        y1="1" 
-        x2="0" 
+        y1="0.23" 
+        x2="0.07" 
         y2="0"
         id="fon2"
         spreadMethod="reflect">
-          <stop style="stop-color:#180020;stop-opacity:0" offset="0.000" />
-          <stop style="stop-color:#180020;stop-opacity:0" offset="0.050" />
-          <stop style="stop-color:#990077;stop-opacity:0.2" offset="0.200" />
-          <stop style="stop-color:#ff0033;stop-opacity:1" offset="0.503" />
-          <stop style="stop-color:#990077;stop-opacity:0.2" offset="0.706" />
-          <stop style="stop-color:#180020;stop-opacity:0" offset="0.950" />
-          <stop style="stop-color:#180020;stop-opacity:0" offset="1.000" />
+          <stop style="stop-color:#202020;stop-opacity:0" offset="0.000" />
+          <stop style="stop-color:#202020;stop-opacity:0" offset="0.050" />
+          <stop style="stop-color:#888888;stop-opacity:0.2" offset="0.500" />
+          <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.503" />
+          <stop style="stop-color:#555555;stop-opacity:0.2" offset="0.506" />
+          <stop style="stop-color:#202020;stop-opacity:0" offset="0.950" />
+          <stop style="stop-color:#202020;stop-opacity:0" offset="1.000" />
     </linearGradient>
     <linearGradient
-        x1="0" 
-        y1="0.25" 
+        x1="-0.03" 
+        y1="0" 
         x2="0" 
-        y2="0" 
+        y2="-0.27" 
         id="linearGradient1"
         spreadMethod="reflect">
           <stop style="stop-color:#000000;stop-opacity:0" offset="0.000" />
-          <stop style="stop-color:#ff3300;stop-opacity:1" offset="1.000" />
+          <stop style="stop-color:#ffffff;stop-opacity:1" offset="1.000" />
     </linearGradient>
     <linearGradient
         x1="0" 
-        y1="0.005" 
-        x2="0" 
-        y2="0"
+        y1="0" 
+        x2="-0.083" 
+        y2="0.165"
         id="linearGradient2"
         spreadMethod="reflect">
           <stop style="stop-color:#000000;stop-opacity:0" offset="0.000" />
-          <stop style="stop-color:#ff0000;stop-opacity:1" offset="1.000" />
+          <stop style="stop-color:#444444;stop-opacity:1" offset="1.000" />
     </linearGradient>
     <linearGradient
         x1="0" 
-        y1="0.05" 
-        x2="0" 
-        y2="0"
+        y1="0" 
+        x2="0.03" 
+        y2="0.006"
         id="mask1g"
         spreadMethod="repeat">
           <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.000" />
@@ -72,9 +72,9 @@
     </linearGradient>
     <linearGradient
         x1="0" 
-        y1="0.05" 
-        x2="0" 
-        y2="0"
+        y1="0" 
+        x2="0.01" 
+        y2="0.001"
         id="mask2g"
         spreadMethod="repeat">
           <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.000" />
@@ -99,13 +99,14 @@
      y="0" />
 </mask>
 </defs>
-<rect
+
+    <rect
      y="0"
      x="0"
      height="512"
      width="512"
      style="fill:url(#fon);stroke:none;opacity:1" />
-<rect
+    <rect
      y="0"
      x="0"
      height="512"
@@ -129,7 +130,8 @@
      height="512"
      width="512"
      style="fill:url(#linearGradient1);mask:url(#mask2);stroke:none;opacity:0.4" />
-    <rect
+  
+  <rect
      y="0"
      x="0"
      height="512"
