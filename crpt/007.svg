@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   enable-background="new"
+   version="1.1"
+   viewBox="0 0 512 512"
+   height="512"
+   width="512">
+  <defs>
+    <linearGradient id="linearGradient7">
+      <stop offset="0.00" style="stop-color:#ff9900;stop-opacity:1" />
+      <stop offset="0.03" style="stop-color:#ff8800;stop-opacity:1" />
+      <stop offset="0.97" style="stop-color:#000913;stop-opacity:1" />
+      <stop offset="1.00" style="stop-color:#000913;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient 
+       xlink:href="#linearGradient7"
+       id="radialGradient77"
+       cx="256"
+       cy="260"
+       fx="256"
+       fy="55"
+       r="240"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+    <rect
+       style="
+       fill:url(#radialGradient77);
+       fill-opacity:1;"
+       width="512"
+       height="512"
+       x="0"
+       y="0" />
+</svg>
