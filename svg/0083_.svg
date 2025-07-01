@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs>
+    <linearGradient id="fon">
+      <stop style="stop-color:#00aaaa;stop-opacity:1" offset="0.000" />
+      <stop style="stop-color:#000000;stop-opacity:1" offset="1.000" />
+    </linearGradient>
+    <linearGradient id="lin">
+      <stop style="stop-color:#000000;stop-opacity:0" offset="0.000" />
+      <stop style="stop-color:#00ffff;stop-opacity:1" offset="0.100" />
+      <stop style="stop-color:#00ffff;stop-opacity:1" offset="0.210" />
+      <stop style="stop-color:#000000;stop-opacity:0" offset="0.220" />
+      <stop style="stop-color:#00ffff;stop-opacity:1" offset="0.230" />
+      <stop style="stop-color:#00ffff;stop-opacity:0.1" offset="0.340" />
+      <stop style="stop-color:#000000;stop-opacity:0.7" offset="0.750" />
+      <stop style="stop-color:#000000;stop-opacity:0" offset="1.000" />
+    </linearGradient>
+    <radialGradient xlink:href="#fon" id="221_modified" gradientUnits="userSpaceOnUse" cx="256"  cy="256" fx="256" fy="256" r="256"/>
+    <radialGradient xlink:href="#lin" id="start" spreadMethod="repeat" gradientUnits="userSpaceOnUse" cx="0" cy="0" fx="0" fy="0" r="32"/>
+    <radialGradient xlink:href="#start" id="000" gradientTransform="translate(256 256) rotate(0)   scale(0.4 1)"/>
+    <radialGradient xlink:href="#start" id="001" gradientTransform="translate(256 256) rotate(30)  scale(0.4 1)"/>
+    <radialGradient xlink:href="#start" id="002" gradientTransform="translate(256 256) rotate(60)  scale(0.4 1)"/>
+    <radialGradient xlink:href="#start" id="003" gradientTransform="translate(256 256) rotate(90)  scale(0.4 1)"/>
+    <radialGradient xlink:href="#start" id="004" gradientTransform="translate(256 256) rotate(120) scale(0.4 1)"/>
+    <radialGradient xlink:href="#start" id="005" gradientTransform="translate(256 256) rotate(150) scale(0.4 1)"/>
+    <radialGradient xlink:href="#start" id="006" gradientTransform="translate(256 256) rotate(180) scale(0.4 1)"/>
+    <radialGradient xlink:href="#start" id="007" gradientTransform="translate(256 256) rotate(210) scale(0.4 1)"/>
+    <radialGradient xlink:href="#start" id="008" gradientTransform="translate(256 256) rotate(240) scale(0.4 1)"/>
+    <radialGradient xlink:href="#start" id="009" gradientTransform="translate(256 256) rotate(270) scale(0.4 1)"/>
+    <radialGradient xlink:href="#start" id="010" gradientTransform="translate(256 256) rotate(300) scale(0.4 1)"/>
+    <radialGradient xlink:href="#start" id="011" gradientTransform="translate(256 256) rotate(330) scale(0.4 1)"/>
+  </defs>
+    <rect y="0" x="0" height="512" width="512" style="opacity:1;fill:url(#221_modified)"/>
+    <rect y="0" x="0" height="512" width="512" style="opacity:0.15;fill:url(#000)"/>
+    <rect y="0" x="0" height="512" width="512" style="opacity:0.15;fill:url(#001)"/>
+    <rect y="0" x="0" height="512" width="512" style="opacity:0.15;fill:url(#002)"/>
+    <rect y="0" x="0" height="512" width="512" style="opacity:0.15;fill:url(#003)"/>
+    <rect y="0" x="0" height="512" width="512" style="opacity:0.15;fill:url(#004)"/>
+    <rect y="0" x="0" height="512" width="512" style="opacity:0.15;fill:url(#005)"/>
+    <rect y="0" x="0" height="512" width="512" style="opacity:0.15;fill:url(#006)"/>
+    <rect y="0" x="0" height="512" width="512" style="opacity:0.15;fill:url(#007)"/>
+    <rect y="0" x="0" height="512" width="512" style="opacity:0.15;fill:url(#008)"/>
+    <rect y="0" x="0" height="512" width="512" style="opacity:0.15;fill:url(#009)"/>
+    <rect y="0" x="0" height="512" width="512" style="opacity:0.15;fill:url(#001)"/>
+    <rect y="0" x="0" height="512" width="512" style="opacity:0.15;fill:url(#011)"/>
+</svg>
+
+
