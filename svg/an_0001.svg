@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 1000 1000">
+
+    <linearGradient id="lg6">
+      <stop offset="0" stop-color="rgba(106, 130, 251, 0.3)">
+        <animate attributeName="stop-color" 
+        values="rgba(106, 130, 251, 0.3);rgba(5, 0, 0, 1);rgba(106, 130, 251, 0.3)" dur="20s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="0.5" stop-color="rgba(11, 130, 51, 1)">
+        <animate attributeName="stop-color" 
+        values="rgba(11, 130, 51, 1);rgba(55, 55, 0, 0.1);rgba(11, 130, 51, 1)" dur="11s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="1" stop-color="rgba(86, 130, 0, 1)">
+        <animate attributeName="stop-color"
+        values="rgba(86, 130, 0, 1);rgba(5, 0, 0, 1);rgba(86, 130, 0, 1)" dur="3s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <radialGradient xlink:href="#lg6" id="rg6" spreadMethod="reflect" cx="500" cy="500" fx="500" fy="500" r="250" gradientUnits="userSpaceOnUse">
+      <animate attributeName="r" values="250; 10; 250; 1500; 250" dur="25s" repeatCount="indefinite" />
+    </radialGradient>
+    <radialGradient xlink:href="#lg6" id="rg7" spreadMethod="reflect" cx="500" cy="500" fx="500" fy="500" r="6" gradientUnits="userSpaceOnUse">
+      <animate attributeName="r" values="3; 21; 3" dur="5s" repeatCount="indefinite" />
+    </radialGradient>
+  <rect width="1000" height="1000" fill="#004400"/>
+  <rect width="1000" height="1000" fill="url(#rg7)"/>
+  <rect width="1000" height="1000" fill="url(#rg6)" opacity="0.6"/>
+</svg>
