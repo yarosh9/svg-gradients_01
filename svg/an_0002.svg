@@ -1,0 +1,38 @@
+<svg width="500" height="500" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <defs>
+    <linearGradient id="lgs" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000055" />    
+      <stop offset="1" stop-color="#550000" />  
+    </linearGradient>
+    <linearGradient id="lgf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"   style="stop-color:#00fff;stop-opacity:1" />
+      <stop offset="0.4" style="stop-color:#00ffff;stop-opacity:0" />
+      <stop offset="0.6" style="stop-color:#f00fff;stop-opacity:0" />
+      <stop offset="1"   style="stop-color:#ffff00;stop-opacity:1" />
+    </linearGradient>
+<radialGradient id="rgr"
+                xlink:href="#lgf"
+                spreadMethod="reflect"
+                cx="0.5" cy="0.5" r="0.1" fx="0.5" fy="0.5"       
+                gradientUnits="objectBoundingBox"
+                gradientTransform="scale(0.9 1) rotate(5 0 0)">
+                <animate attributeName="r" values="0.1; 1; 0.1" dur="55s" repeatCount="indefinite" />
+                <animate attributeName="cx" values="0.5; 1; 0.5" dur="12.5s" repeatCount="indefinite" />
+                <animate attributeName="fx" values="0,5; 0.1; 0.5" dur="10s" repeatCount="indefinite" />
+                <animate attributeName="cy" values="0.5; 1; 0.5" dur="12.5s" repeatCount="indefinite" />
+                <animate attributeName="fy" values="0,5; 0.1; 0.5" dur="25s" repeatCount="indefinite" />
+</radialGradient>
+  </defs>
+  <rect x="0" y="0" width="1000" height="1000" fill="url(#lgs)" stroke="none" />
+  <rect x="0" y="0" width="1000" height="1000" fill="url(#rgr)" stroke="none" opacity="0.5" />
+  <rect x="0" y="0" width="1000" height="1000" fill="url(#rgr)" stroke="none" opacity="0.5" transform="rotate(90 500 500)"/>
+  <rect x="0" y="0" width="1000" height="1000" fill="url(#rgr)" stroke="none" opacity="0.5" transform="rotate(180 500 500)"/>
+  <rect x="0" y="0" width="1000" height="1000" fill="url(#rgr)" stroke="none" opacity="0.5" transform="rotate(270 500 500)"/>
+
+
+
+  
+
+
+</svg>
