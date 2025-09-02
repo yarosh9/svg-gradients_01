@@ -7,16 +7,16 @@
     </linearGradient>
     <linearGradient id="lgf" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0"   style="stop-color:#ffff00;stop-opacity:1" />
-      <stop offset="0.1" style="stop-color:#ffff00;stop-opacity:0" />
-      <stop offset="0.9" style="stop-color:#ffff00;stop-opacity:0" />
+      <stop offset="0.4" style="stop-color:#ffff00;stop-opacity:0" />
+      <stop offset="0.97" style="stop-color:#ffff00;stop-opacity:0" />
       <stop offset="1"   style="stop-color:#00ff00;stop-opacity:1" />
     </linearGradient>
 <radialGradient id="rgr"
                 xlink:href="#lgf"
                 spreadMethod="reflect"
-                cx="0.5" cy="0.5" r="0.05" fx="0.5" fy="0.5"       
+                cx="0.5" cy="0.5" r="0.5" fx="0" fy="1"       
                 gradientUnits="objectBoundingBox"
-                gradientTransform="scale(0.1 1) rotate(0 0 0)">
+                gradientTransform="scale(0.88 1) rotate(0 0 0)">
 </radialGradient>
   </defs>
   <rect x="0" y="0" width="1000" height="1000" fill="url(#lgs)" stroke="none" />
