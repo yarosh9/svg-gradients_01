@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+  <linearGradient id="fon" x1="0" y1="0" x2="0" y2="0.02" spreadMethod="reflect">
+  <stop style="stop-color:#000055;stop-opacity:1" offset="0" />
+  <stop style="stop-color:#002277;stop-opacity:1" offset="0.5" />
+  <stop style="stop-color:#7788ff;stop-opacity:1" offset="1" />
+  </linearGradient>
+  <linearGradient id="fgr" x1="0" y1="0" x2="0" y2="0.1" spreadMethod="reflect">
+  <stop style="stop-color:#000000;stop-opacity:0" offset="0" />
+  <stop style="stop-color:#0000ff;stop-opacity:1" offset="1" />
+  </linearGradient>
+  <linearGradient id="tgr" x1="0" y1="0.05" x2="0" y2="0" spreadMethod="reflect">
+  <stop style="stop-color:#000000;stop-opacity:0" offset="0" />
+  <stop style="stop-color:#000000;stop-opacity:0" offset="0.7" />
+  <stop style="stop-color:#5555ff;stop-opacity:1" offset="1" />
+  </linearGradient>
+  <linearGradient id="fms" x1="0" y1="0" x2="0" y2="0.025" spreadMethod="reflect">
+    <stop style="stop-color:#ffffff;stop-opacity:1" offset="0" />
+    <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.4" />
+    <stop style="stop-color:#000000;stop-opacity:0" offset="0.401" />
+    <stop style="stop-color:#000000;stop-opacity:0" offset="1" />
+  </linearGradient>
+  <linearGradient id="tms" x1="0.025" y1="0" x2="0" y2="0" spreadMethod="reflect">
+    <stop style="stop-color:#ffffff;stop-opacity:1" offset="0" />
+    <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.7" />
+    <stop style="stop-color:#000000;stop-opacity:1" offset="0.701" />
+    <stop style="stop-color:#000000;stop-opacity:1" offset="1" />
+  </linearGradient>
+  <linearGradient id="top" x1="0" y1="0" x2="0" y2="0.5" spreadMethod="reflect">
+  <stop style="stop-color:#000033;stop-opacity:1" offset="0" />
+  <stop style="stop-color:#001166;stop-opacity:0" offset="0.9" />
+  <stop style="stop-color:#000033;stop-opacity:1" offset="1" />
+  </linearGradient>
+  <mask id="m1">
+    <rect style="fill:url(#fms);fill-opacity:1;stroke:none" width="1000" height="1000" x="0" y="0" />
+  </mask>
+  <mask id="m2">
+    <rect style="fill:url(#tms);fill-opacity:1;stroke:none" width="1000" height="1000" x="0" y="0" />
+  </mask>
+</defs>
+<rect style="fill:url(#fon);fill-opacity:1;stroke:none" width="1000" height="1000" x="0" y="0" />
+<rect style="fill:url(#fgr);mask:url(#m1);fill-opacity:1;stroke:none" width="1000" height="1000" x="0" y="0" />
+<rect style="fill:url(#tgr);mask:url(#m2);fill-opacity:1;stroke:none" width="1000" height="1000" x="0" y="0" />
+<rect style="fill:url(#top);fill-opacity:1;stroke:none" width="1000" height="1000" x="0" y="0" />
+</svg>
