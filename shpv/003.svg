@@ -1,0 +1,65 @@
+<svg width="100%" height="100%" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient7" 
+      x1="0.05" y1="0" x2="0" y2="0.05" spreadMethod="reflect">
+      <stop offset="0.000" style="stop-color:#aa0000;stop-opacity:1" />
+      <stop offset="0.250" style="stop-color:#ff5500;stop-opacity:1" />
+      <stop offset="0.500" style="stop-color:#110500;stop-opacity:1" />
+      <stop offset="0.750" style="stop-color:#ff5500;stop-opacity:1" />
+      <stop offset="1.000" style="stop-color:#110000;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="linearGradient0" 
+      x1="0.05" y1="0" x2="0" y2="0.05" spreadMethod="repeat">
+      <stop offset="0.000" style="stop-color:#000000;stop-opacity:0" />
+      <stop offset="0.800" style="stop-color:#000000;stop-opacity:0" />
+      <stop offset="0.800" style="stop-color:#000000;stop-opacity:1" />
+      <stop offset="1.000" style="stop-color:#cc5500;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient 
+       xlink:href="#linearGradient0"
+       id="radialGradient70"
+       cx="0.5"
+       cy="0.5"
+       fx="0.5"
+       fy="0.5"
+       r="0.1"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="reflect" />
+    <radialGradient 
+       xlink:href="#linearGradient7"
+       id="radialGradient77"
+       cx="0.5"
+       cy="0.5"
+       fx="0.5"
+       fy="0.5"
+       r="0.47"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="reflect" />
+  </defs>
+  <rect
+     y="0"
+     x="0"
+     height="1000"
+     width="1000"
+     style="fill:url(#radialGradient77);stroke:none;opacity:1" /> 
+  <rect
+     y="-1000"
+     x="0"
+     height="1000"
+     width="1000"
+     style="fill:url(#linearGradient7);stroke:none;opacity:0.13"
+     transform="rotate(90)" />
+  <rect
+     y="0"
+     x="0"
+     height="1000"
+     width="1000"
+     style="fill:url(#linearGradient7);stroke:none;opacity:0.13"
+     transform="rotate(0)" />
+  <rect
+     y="0"
+     x="0"
+     height="1000"
+     width="1000"
+     style="fill:url(#radialGradient70);stroke:none;opacity:0.15" /> 
+</svg>
