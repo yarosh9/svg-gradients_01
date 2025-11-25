@@ -1,15 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   version="1.1"
-   viewBox="0 0 512 512"
-   width="512"
-   height="512"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg" >
+<svg width="100%" height="100%" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <linearGradient
-       id="linearGradient1381"
+       id="lg1381"
        spreadMethod="reflect">
       <stop style="stop-color:#00aacc;stop-opacity:1" offset="0.000" />
       <stop style="stop-color:#001188;stop-opacity:1" offset="0.250" />
@@ -22,21 +14,21 @@
       <stop style="stop-color:#00aacc;stop-opacity:1" offset="1.000" />
     </linearGradient>
     <linearGradient
-       xlink:href="#linearGradient1381"
+       xlink:href="#lg1381"
        x1="0.5"
        y1="0.5"
        x2="0"
        y2="0"
-       id="linearGradient1382"
+       id="lg1382"
        spreadMethod="reflect">
     </linearGradient>
     <linearGradient
-       xlink:href="#linearGradient1381"
+       xlink:href="#lg1381"
        x1="0.125"
        y1="0.125"
        x2="0"
        y2="0"
-       id="linearGradient1383"
+       id="lg1383"
        spreadMethod="reflect">
     </linearGradient>
     <linearGradient
@@ -47,38 +39,38 @@
     </linearGradient>
     <radialGradient
        xlink:href="#rastr1"
-       gradientUnits="userSpaceOnUse" 
-       cx="256"
-       cy="256"
-       fx="256"
-       fy="256"
-       r="256"
+       gradientUnits="objectBoundingBox" 
+       cx="500"
+       cy="500"
+       fx="500"
+       fy="500"
+       r="500"
        id="radial2" />
   </defs>
   <rect
-     style="fill:url(#linearGradient1382);fill-opacity:1;stroke:none"
-     width="512"
-     height="512"
+     style="fill:url(#lg1382);fill-opacity:1;stroke:none"
+     width="1000"
+     height="1000"
      x="0"
      y="0" />
   <rect
-     style="fill:url(#linearGradient1382);fill-opacity:0.5;stroke:none"
+     style="fill:url(#lg1382);fill-opacity:0.5;stroke:none"
      transform="rotate(90)"
-     width="512"
-     height="512"
+     width="1000"
+     height="1000"
      x="0"
-     y="-512" />
+     y="-1000" />
   <rect
-     style="fill:url(#linearGradient1383);fill-opacity:0.1;stroke:none"
-     width="512"
-     height="512"
+     style="fill:url(#lg1383);fill-opacity:0.1;stroke:none"
+     width="1000"
+     height="1000"
      x="0"
      y="0" />
   <rect
-     style="fill:url(#linearGradient1383);fill-opacity:0.1;stroke:none"
+     style="fill:url(#lg1383);fill-opacity:0.1;stroke:none"
      transform="rotate(90)"
-     width="512"
-     height="512"
+     width="1000"
+     height="1000"
      x="0"
-     y="-512" />
+     y="-1000" />
 </svg>

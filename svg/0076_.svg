@@ -1,18 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   viewBox="0 0 512 512"
-   height="512"
-   width="512">
+<svg width="100%" height="100%" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <linearGradient
-      id="linearGradient821">
+      id="lg821">
       <stop style="stop-color:#ff0000;stop-opacity:1" offset="0.00" />
       <stop style="stop-color:#440000;stop-opacity:1" offset="0.50" />
       <stop style="stop-color:#aaaaaa;stop-opacity:1" offset="0.50" />
@@ -21,25 +10,25 @@
     <linearGradient
        x1="0" y1="0" x2="0.09" y2="0.05"
        spreadMethod="reflect"
-       id="linearGradient823"
-       xlink:href="#linearGradient821" />
+       id="lg823"
+       xlink:href="#lg821" />
     <linearGradient
        x1="0.039" y1="0" x2="0" y2="0.05"
        spreadMethod="reflect"
-       id="linearGradient824"
-       xlink:href="#linearGradient821" />
+       id="lg824"
+       xlink:href="#lg821" />
   </defs>
     <rect
        y="0"
        x="0"
-       height="512"
-       width="512"
-       style="opacity:1;fill:url(#linearGradient823);fill-opacity:1;stroke:none" />
+       height="1000"
+       width="1000"
+       style="opacity:1;fill:url(#lg823);fill-opacity:1;stroke:none" />
     <rect
        y="0"
        x="0"
-       height="512"
-       width="512"
-       transform="rotate(90, 256, 256)" 
-       style="opacity:0.5;fill:url(#linearGradient824);fill-opacity:1;stroke:none" />
+       height="1000"
+       width="1000"
+       transform="rotate(90, 500, 500)" 
+       style="opacity:0.5;fill:url(#lg824);fill-opacity:1;stroke:none" />
 </svg>

@@ -35,7 +35,7 @@
         y1="0.025" 
         x2="0" 
         y2="0" 
-        id="linearGradient1"
+        id="lg1"
         spreadMethod="reflect">
           <stop style="stop-color:#000000;stop-opacity:0" offset="0.000" />
           <stop style="stop-color:#ffff00;stop-opacity:1" offset="1.000" />
@@ -45,7 +45,7 @@
         y1="0.005" 
         x2="0" 
         y2="0"
-        id="linearGradient2"
+        id="lg2"
         spreadMethod="reflect">
           <stop style="stop-color:#000000;stop-opacity:0" offset="0.000" />
           <stop style="stop-color:#ff0000;stop-opacity:1" offset="1.000" />
@@ -108,24 +108,24 @@
      x="0"
      height="1000"
      width="1000"
-     style="fill:url(#linearGradient1);stroke:none;opacity:0.4" />
+     style="fill:url(#lg1);stroke:none;opacity:0.4" />
   <rect
      y="0"
      x="0"
      height="1000"
      width="1000"
-     style="fill:url(#linearGradient2);stroke:none;opacity:0.4" />
+     style="fill:url(#lg2);stroke:none;opacity:0.4" />
   <rect
      y="0"
      x="0"
      height="1000"
      width="1000"
-     style="fill:url(#linearGradient1);mask:url(#mask2);stroke:none;opacity:0.4" />
+     style="fill:url(#lg1);mask:url(#mask2);stroke:none;opacity:0.4" />
     <rect
      y="0"
      x="0"
      height="1000"
      width="1000"
-     style="fill:url(#linearGradient2);mask:url(#mask1);stroke:none;opacity:0.5" />
+     style="fill:url(#lg2);mask:url(#mask1);stroke:none;opacity:0.5" />
 </svg>
 

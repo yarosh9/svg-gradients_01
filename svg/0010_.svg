@@ -1,6 +1,6 @@
 <svg width="100%" height="100%" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <linearGradient id="linearGradient7" 
+    <linearGradient id="lg7" 
        x1="0" y1="0" x2="0" y2="0.005" 
        spreadMethod="reflect">
       <stop offset="0.00" style="stop-color:#00ffff;stop-opacity:1" />
@@ -9,19 +9,19 @@
       <stop offset="1.00" style="stop-color:#001122;stop-opacity:1" />
     </linearGradient>
     <radialGradient 
-       xlink:href="#linearGradient7"
-       id="radialGradient77"
+       xlink:href="#lg7"
+       id="rg77"
        spreadMethod="reflect"
        cx="0.5"
-       cy="0.21"
+       cy="0.5"
        fx="0.5"
        fy="0"
-       r="0.1"
+       r="0.225"
        gradientUnits="objectBoundingBox" />
   </defs>
     <rect
        style="
-       fill:url(#linearGradient7);
+       fill:url(#lg7);
        fill-opacity:1;"
        width="1000"
        height="1000"
@@ -29,7 +29,7 @@
        y="0" />
     <rect
        style="
-       fill:url(#radialGradient77);
+       fill:url(#rg77);
        fill-opacity:1;"
        width="1000"
        height="1000"
