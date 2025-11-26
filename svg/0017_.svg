@@ -31,11 +31,11 @@
     <radialGradient
        xlink:href="#lg1381"
        gradientUnits="objectBoundingBox"
-       cx="500"
-       cy="125"
-       fx="500"
-       fy="125"
-       r="10"
+       cx="0.5"
+       cy="0.5"
+       fx="0.5"
+       fy="0.5"
+       r="0.05"
        id="radial2" />
   </defs>
   <rect
