@@ -2,8 +2,8 @@
 <svg
    version="1.1"
    viewBox="0 0 1000 1000"
-   width="1000"
-   height="1000"
+   width="100%"
+   height="100%"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg" >
@@ -17,9 +17,9 @@
         spreadMethod="reflect">
           <stop style="stop-color:#000020;stop-opacity:1" offset="0.000" />
           <stop style="stop-color:#000020;stop-opacity:1" offset="0.050" />
-          <stop style="stop-color:#aa2200;stop-opacity:1" offset="0.500" />
-          <stop style="stop-color:#ff0000;stop-opacity:1" offset="0.504" />
-          <stop style="stop-color:#aa2200;stop-opacity:1" offset="0.550" />
+          <stop style="stop-color:#aa2200;stop-opacity:1" offset="0.499" />
+          <stop style="stop-color:#ff0000;stop-opacity:1" offset="0.500" />
+          <stop style="stop-color:#aa2200;stop-opacity:1" offset="0.601" />
           <stop style="stop-color:#000020;stop-opacity:1" offset="0.950" />
           <stop style="stop-color:#000020;stop-opacity:1" offset="1.000" />
     </linearGradient>
@@ -30,13 +30,11 @@
         y2="0"
         id="fon2"
         spreadMethod="reflect">
-          <stop style="stop-color:#180020;stop-opacity:0" offset="0.000" />
-          <stop style="stop-color:#180020;stop-opacity:0" offset="0.050" />
-          <stop style="stop-color:#990077;stop-opacity:0.2" offset="0.200" />
-          <stop style="stop-color:#ff0033;stop-opacity:1" offset="0.503" />
-          <stop style="stop-color:#990077;stop-opacity:0.2" offset="0.706" />
-          <stop style="stop-color:#180020;stop-opacity:0" offset="0.950" />
-          <stop style="stop-color:#180020;stop-opacity:0" offset="1.000" />
+          <stop style="stop-color:#ff0000;stop-opacity:0" offset="0.000" />
+          <stop style="stop-color:#ff0000;stop-opacity:0" offset="0.450" />
+          <stop style="stop-color:#ff0000;stop-opacity:1" offset="0.500" />
+          <stop style="stop-color:#ff0000;stop-opacity:0" offset="0.550" />
+          <stop style="stop-color:#ff0000;stop-opacity:0" offset="1.000" />
     </linearGradient>
     <linearGradient
         x1="0" 
@@ -50,14 +48,41 @@
     </linearGradient>
     <linearGradient
         x1="0" 
-        y1="0.005" 
+        y1="0.001" 
         x2="0" 
         y2="0"
         id="linearGradient2"
         spreadMethod="reflect">
           <stop style="stop-color:#000000;stop-opacity:0" offset="0.000" />
+          <stop style="stop-color:#000000;stop-opacity:0" offset="0.800" />
+          <stop style="stop-color:#ff0000;stop-opacity:1" offset="0.800" />
           <stop style="stop-color:#ff0000;stop-opacity:1" offset="1.000" />
     </linearGradient>
+    <linearGradient
+        x1="0" 
+        y1="0.001" 
+        x2="0" 
+        y2="0"
+        id="linearGradient211"
+        spreadMethod="reflect">
+          <stop style="stop-color:#000033;stop-opacity:1" offset="0.000" />
+          <stop style="stop-color:#000033;stop-opacity:1" offset="0.200" />
+          <stop style="stop-color:#000000;stop-opacity:0" offset="0.200" />
+          <stop style="stop-color:#000000;stop-opacity:0" offset="1.000" />
+    </linearGradient>
+    <linearGradient
+        x1="0" 
+        y1="0" 
+        x2="0.05" 
+        y2="0"
+        id="lg00m"
+        spreadMethod="reflect">
+          <stop style="stop-color:#000000;stop-opacity:1" offset="0.000" />
+          <stop style="stop-color:#000000;stop-opacity:1" offset="0.500" />
+          <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.500" />
+          <stop style="stop-color:#ffffff;stop-opacity:1" offset="1.000" />
+    </linearGradient>
+
     <linearGradient
         x1="0" 
         y1="0.05" 
@@ -72,7 +97,7 @@
     </linearGradient>
     <linearGradient
         x1="0" 
-        y1="0.05" 
+        y1="0.5" 
         x2="0" 
         y2="0"
         id="mask2g"
@@ -84,15 +109,7 @@
     </linearGradient>
 <mask id="mask1">
   <rect
-     style="fill:url(#mask1g);fill-opacity:1;stroke:none"
-     width="1000"
-     height="1000"
-     x="0"
-     y="0" />
-</mask>
-<mask id="mask2">
-  <rect
-     style="fill:url(#mask2g);fill-opacity:1;stroke:none"
+     style="fill:url(#lg00m);fill-opacity:1;stroke:none"
      width="1000"
      height="1000"
      x="0"
@@ -110,13 +127,7 @@
      x="0"
      height="1000"
      width="1000"
-     style="fill:url(#fon2);stroke:none;opacity:1" />
-<rect
-     y="0"
-     x="0"
-     height="1000"
-     width="1000"
-     style="fill:url(#linearGradient1);stroke:none;opacity:0.4" />
+     style="fill:url(#fon2);stroke:none;mask:url(#mask1);opacity:0.25" />
   <rect
      y="0"
      x="0"
@@ -128,12 +139,6 @@
      x="0"
      height="1000"
      width="1000"
-     style="fill:url(#linearGradient1);mask:url(#mask2);stroke:none;opacity:0.4" />
-    <rect
-     y="0"
-     x="0"
-     height="1000"
-     width="1000"
-     style="fill:url(#linearGradient2);mask:url(#mask1);stroke:none;opacity:0.5" />
+     style="fill:url(#linearGradient211);stroke:none;opacity:0.4" />
 </svg>
 
