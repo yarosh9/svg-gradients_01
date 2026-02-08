@@ -1,23 +1,63 @@
 <svg width="100%" height="100%" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
+    <linearGradient id="linearGradient8" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.00" style="stop-color:#030100;stop-opacity:1" />
+      <stop offset="1.00" style="stop-color:#030100;stop-opacity:1" />
+    </linearGradient>
+
+
+
     <linearGradient id="linearGradient7">
-      <stop offset="0.00" style="stop-color:#ffeeee;stop-opacity:1" />
+      <stop offset="0.000" style="stop-color:#ffeeee;stop-opacity:1" />
       <stop offset="0.005" style="stop-color:#ffaa00;stop-opacity:1" />
-      <stop offset="0.01" style="stop-color:#ff8800;stop-opacity:1" />
-      <stop offset="0.03" style="stop-color:#ff8800;stop-opacity:1" />
-      <stop offset="0.97" style="stop-color:#000913;stop-opacity:1" />
-      <stop offset="1.00" style="stop-color:#000913;stop-opacity:1" />
+      <stop offset="0.010" style="stop-color:#ff8800;stop-opacity:1" />
+      <stop offset="0.030" style="stop-color:#ff8800;stop-opacity:1" />
+      <stop offset="0.970" style="stop-color:#000000;stop-opacity:0" />
+      <stop offset="1.000" style="stop-color:#000900;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient id="linearGradient6">
+      <stop offset="0.0" style="stop-color:#110700;stop-opacity:1" />
+      <stop offset="0.1" style="stop-color:#110700;stop-opacity:1" />
+      <stop offset="0.1" style="stop-color:#000000;stop-opacity:0" />
+      <stop offset="1.0" style="stop-color:#000000;stop-opacity:0" />
     </linearGradient>
     <radialGradient 
        xlink:href="#linearGradient7"
        id="radialGradient77"
        cx="0.5"
-       cy="0.52"
+       cy="0.56"
+       fx="0.5"
+       fy="0.1"
+       r="0.56"
+       gradientTransform="translate(0.5 0.56) scale(0.99 1) translate(-0.5 -0.56)"
+       gradientUnits="objectBoundingBox" />
+    <radialGradient 
+       xlink:href="#linearGradient6"
+       id="radialGradient66"
+       spreadMethod="repeat"
+       cx="0.5"
+       cy="0.07"
        fx="0.5"
        fy="0.07"
-       r="0.5"
+       r="0.0025"
        gradientUnits="objectBoundingBox" />
   </defs>
+    <rect
+       style="
+       fill:url(#linearGradient8);
+       fill-opacity:1;"
+       width="1000"
+       height="1000"
+       x="0"
+       y="0" />
+    <rect
+       style="
+       fill:url(#radialGradient66);
+       fill-opacity:1;"
+       width="1000"
+       height="1000"
+       x="0"
+       y="0" />
     <rect
        style="
        fill:url(#radialGradient77);

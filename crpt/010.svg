@@ -1,91 +1,81 @@
 <svg width="100%" height="100%" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <linearGradient id="lg00">
-      <stop offset="0.000" style="stop-color:#001122;stop-opacity:0" />
-      <stop offset="0.088" style="stop-color:#00ffff;stop-opacity:1" />
-      <stop offset="0.420" style="stop-color:#002233;stop-opacity:1" />
-      <stop offset="0.484" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.000" style="stop-color:#001122;stop-opacity:0.5" />
+      <stop offset="0.288" style="stop-color:#00ffff;stop-opacity:0.81" />
+      <stop offset="0.420" style="stop-color:#002233;stop-opacity:0.5" />
+      <stop offset="0.484" style="stop-color:#001122;stop-opacity:0.5" />
 
-      <stop offset="0.486" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.486" style="stop-color:#001122;stop-opacity:0.5" />
       <stop offset="0.488" style="stop-color:#00ffff;stop-opacity:1" />
-      <stop offset="0.490" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.490" style="stop-color:#001122;stop-opacity:0.5" />
 
-      <stop offset="0.492" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.492" style="stop-color:#001122;stop-opacity:0.5" />
       <stop offset="0.494" style="stop-color:#00ffff;stop-opacity:1" />
-      <stop offset="0.496" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.496" style="stop-color:#001122;stop-opacity:0.5" />
 
-      <stop offset="0.498" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.498" style="stop-color:#001122;stop-opacity:0.5" />
       <stop offset="0.500" style="stop-color:#00ffff;stop-opacity:1" />
-      <stop offset="0.502" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.502" style="stop-color:#001122;stop-opacity:0.5" />
 
-      <stop offset="0.504" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.504" style="stop-color:#001122;stop-opacity:0.5" />
       <stop offset="0.506" style="stop-color:#00ffff;stop-opacity:1" />
-      <stop offset="0.508" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.508" style="stop-color:#001122;stop-opacity:0.5" />
       
-      <stop offset="0.510" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.510" style="stop-color:#001122;stop-opacity:0.5" />
       <stop offset="0.512" style="stop-color:#00ffff;stop-opacity:1" />
-      <stop offset="0.514" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.514" style="stop-color:#001122;stop-opacity:0.5" />
 
-      <stop offset="0.516" style="stop-color:#001122;stop-opacity:1" />
-      <stop offset="0.580" style="stop-color:#002233;stop-opacity:1" />
-      <stop offset="0.912" style="stop-color:#00ffff;stop-opacity:1" />
-      <stop offset="1.000" style="stop-color:#001122;stop-opacity:0" />
+      <stop offset="0.516" style="stop-color:#001122;stop-opacity:0.5" />
+      <stop offset="0.580" style="stop-color:#002233;stop-opacity:0.5" />
+      <stop offset="0.712" style="stop-color:#00ffff;stop-opacity:0.81" />
+      <stop offset="1.000" style="stop-color:#001122;stop-opacity:0.5" />
     </linearGradient>
-    <linearGradient 
-      id="lgf" 
-      xlink:href="#lg00"
-      x1="1" y1="0" x2="0" y2="0"
-      gradientTransform="scale(0.2 1)"
-      spreadMethod="no" >
-    </linearGradient>
+
+     <linearGradient id="lg0b" xlink:href="#lg00" x1="0" y1="0" x2="0" y2="1" spreadMethod="reflect">
+     </linearGradient>
+     <linearGradient id="lg1s" xlink:href="#lg00" x1="0" y1="0" x2="0" y2="0.25" spreadMethod="reflect">
+     </linearGradient>
+
+
   </defs>
   <rect
      y="0"
      x="0"
      height="1000"
      width="1000"
-     style="fill:#001122;stroke:none;opacity:1"
+     style="fill:#001111;stroke:none;opacity:1"
      transform="rotate(0)" />
+
   <rect
      y="0"
      x="0"
      height="1000"
      width="1000"
-     style="fill:url(#lg00);stroke:none"
+     style="fill:url(#lg1s);stroke:none;opacity:0.35"
      transform="rotate(90, 500, 500)" />
   <rect
      y="0"
      x="0"
      height="1000"
      width="1000"
-     style="fill:url(#lg00);stroke:none;opacity:0.5"
+     style="fill:url(#lg1s);stroke:none;opacity:0.35"
      transform="rotate(0)" />
+
+
+
   <rect
      y="0"
      x="0"
      height="1000"
      width="1000"
-     style="fill:url(#lgf);stroke:none;opacity:0.05"
+     style="fill:url(#lg0b);stroke:none;opacity:0.8"
      transform="rotate(90, 500, 500)" />
   <rect
      y="0"
      x="0"
      height="1000"
      width="1000"
-     style="fill:url(#lgf);stroke:none;opacity:0.05"
-     transform="rotate(180, 500, 500)" />
-  <rect
-     y="0"
-     x="0"
-     height="1000"
-     width="1000"
-     style="fill:url(#lgf);stroke:none;opacity:0.05"
-     transform="rotate(270, 500, 500)" />
-  <rect
-     y="0"
-     x="0"
-     height="1000"
-     width="1000"
-     style="fill:url(#lgf);stroke:none;opacity:0.05"
+     style="fill:url(#lg0b);stroke:none;opacity:0.8"
      transform="rotate(0)" />
 </svg>

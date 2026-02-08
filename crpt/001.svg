@@ -1,42 +1,53 @@
 <svg width="100%" height="100%" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <linearGradient id="lg00" 
-      x1="0" y1="0" x2="0" y2="0.025" spreadMethod="reflect">
+    <linearGradient id="lg00" x1="0" y1="0" x2="0" y2="0.02" spreadMethod="reflect">
       <stop offset="0.000" style="stop-color:#aaaa00;stop-opacity:1" />
       <stop offset="1.000" style="stop-color:#222200;stop-opacity:1" />
      </linearGradient>
 
-
-     <linearGradient id="lg01" 
-      x1="0" y1="0" x2="0" y2="0.5" spreadMethod="reflect">
-      <stop offset="0.000" style="stop-color:#005511;stop-opacity:1" />
-      <stop offset="0.700" style="stop-color:#ffff00;stop-opacity:1" />
-      <stop offset="1.000" style="stop-color:#ffff00;stop-opacity:1" />
+     <linearGradient id="lg01" x1="0" y1="0" x2="0" y2="0.5" spreadMethod="reflect">
+      <stop offset="0.000" style="stop-color:#005511;stop-opacity:0.51" />
+      <stop offset="0.700" style="stop-color:#ffff00;stop-opacity:0.11" />
+      <stop offset="1.000" style="stop-color:#ffff00;stop-opacity:0.31" />
      </linearGradient>
-     <linearGradient id="lg0m" 
-      x1="0" y1="0" x2="0" y2="0.001" spreadMethod="reflect">
+
+     <linearGradient id="lg0m" x1="0" y1="0" x2="0" y2="0.0025" spreadMethod="reflect">
       <stop offset="0.000" style="stop-color:#000000;stop-opacity:1" />
-      <stop offset="0.900" style="stop-color:#000000;stop-opacity:1" />
-      <stop offset="0.900" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="0.500" style="stop-color:#000000;stop-opacity:1" />
+      <stop offset="0.500" style="stop-color:#ffffff;stop-opacity:1" />
       <stop offset="1.000" style="stop-color:#ffffff;stop-opacity:1" />
      </linearGradient>
 
-
-     <linearGradient id="linearGradient7">
-      <stop offset="0.00" style="stop-color:#ffff00;stop-opacity:1" />
-      <stop offset="0.10" style="stop-color:#ffff00;stop-opacity:0.7" />
+     <linearGradient id="lg7">
+      <stop offset="0.00" style="stop-color:#ffff00;stop-opacity:0.7" />
+      <stop offset="0.01" style="stop-color:#ffff00;stop-opacity:0.7" />
+      <stop offset="0.05" style="stop-color:#ffff00;stop-opacity:0" />
+      <stop offset="0.10" style="stop-color:#ffff00;stop-opacity:0" />
+      <stop offset="0.15" style="stop-color:#aaff00;stop-opacity:0.3" />
+      <stop offset="0.20" style="stop-color:#ffff00;stop-opacity:0" />
+      <stop offset="0.25" style="stop-color:#aaff00;stop-opacity:0.2" />
+      <stop offset="0.30" style="stop-color:#ffff00;stop-opacity:0" />
+      <stop offset="0.35" style="stop-color:#aaff00;stop-opacity:0.1" />
+      <stop offset="0.40" style="stop-color:#ffff00;stop-opacity:0" />
+      <stop offset="0.45" style="stop-color:#ffff00;stop-opacity:0.1" />
+      <stop offset="0.50" style="stop-color:#ffff00;stop-opacity:0" />
+      <stop offset="0.55" style="stop-color:#ffff00;stop-opacity:0.1" />
       <stop offset="0.75" style="stop-color:#ffff00;stop-opacity:0" />
       <stop offset="1.00" style="stop-color:#ffff00;stop-opacity:0" />
     </linearGradient>
+
     <radialGradient 
-       xlink:href="#linearGradient7"
-       id="radialGradient77"
-       cx="0.5"
+       xlink:href="#lg7"
+       id="rg7"
+       cx="0.55"
        cy="0.5"
-       fx="0.12"
+       fx="0.3"
        fy="0.5"
        r="0.5"
+       gradientTransform="translate(0.5 0.56) scale(1.5 1) translate(-0.5 -0.56)"
        gradientUnits="objectBoundingBox" />
+
+
 <mask id="mrr" maskUnits="userSpaceOnUse">
    <rect
      style="fill:url(#lg0m);fill-opacity:1;stroke:none"
@@ -46,6 +57,16 @@
      y="0" />
 </mask>
   </defs>
+
+    <rect
+       style="
+       fill:#000000;
+       fill-opacity:1;"
+       width="1000"
+       height="1000"
+       x="0"
+       y="0" />
+
     <rect
        style="
        fill:url(#lg00);
@@ -54,10 +75,12 @@
        height="1000"
        x="0"
        y="0" />
-    
+       
+
+
     <rect
        style="
-       fill:url(#radialGradient77);
+       fill:url(#rg7);
        fill-opacity:1;"
        width="1000"
        height="1000"
@@ -65,29 +88,22 @@
        y="0" />
    <rect
        style="
-       fill:url(#radialGradient77);
+       fill:url(#rg7);
        fill-opacity:1;"
        width="1000"
        height="1000"
        transform="rotate(180, 500, 500)"
        x="0"
        y="0" />
+
     <rect
        style="
-       fill:url(#linearGradient6);
-       fill-opacity:0.45"
+       fill:url(#lg01);
+       fill-opacity:1;"
+       mask="url(#mrr)"
        width="1000"
        height="1000"
        x="0"
        y="0" />
 
-    <rect
-       style="
-       fill:url(#lg01);
-       fill-opacity:1;
-       mask:url(#mrr);"
-       width="1000"
-       height="1000"
-       x="0"
-       y="0" />
 </svg>

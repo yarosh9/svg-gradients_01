@@ -7,35 +7,39 @@
    y2="1"
    spreadMethod="reflect"
    id="linearGradient1382">
-      <stop offset="0.000" style="stop-color:#000000;stop-opacity:1" />
-      <stop offset="0.288" style="stop-color:#ff0000;stop-opacity:1" />
-      <stop offset="0.420" style="stop-color:#000000;stop-opacity:1" />
-      <stop offset="0.484" style="stop-color:#000000;stop-opacity:1" />
+      <stop offset="0.000" style="stop-color:#000000;stop-opacity:0" />
+      <stop offset="0.288" style="stop-color:#ff0000;stop-opacity:0.51" />
+      <stop offset="0.420" style="stop-color:#000000;stop-opacity:0" />
+      <stop offset="0.487" style="stop-color:#000000;stop-opacity:0" />
 
-      <stop offset="0.486" style="stop-color:#000000;stop-opacity:1" />
-      <stop offset="0.488" style="stop-color:#ff0000;stop-opacity:1" />
-      <stop offset="0.490" style="stop-color:#000000;stop-opacity:1" />
+      <stop offset="0.487" style="stop-color:#ff0000;stop-opacity:1" />
+      <stop offset="0.489" style="stop-color:#ff0000;stop-opacity:1" />
+      <stop offset="0.489" style="stop-color:#000000;stop-opacity:0" />
 
-      <stop offset="0.492" style="stop-color:#000000;stop-opacity:1" />
-      <stop offset="0.494" style="stop-color:#ff0000;stop-opacity:1" />
-      <stop offset="0.496" style="stop-color:#000000;stop-opacity:1" />
+      <stop offset="0.493" style="stop-color:#000000;stop-opacity:0" />
+      <stop offset="0.493" style="stop-color:#ff0000;stop-opacity:1" />
+      <stop offset="0.495" style="stop-color:#ff0000;stop-opacity:1" />
+      <stop offset="0.495" style="stop-color:#000000;stop-opacity:0" />
 
-      <stop offset="0.498" style="stop-color:#000000;stop-opacity:1" />
-      <stop offset="0.500" style="stop-color:#ff0000;stop-opacity:1" />
-      <stop offset="0.502" style="stop-color:#000000;stop-opacity:1" />
 
-      <stop offset="0.504" style="stop-color:#000000;stop-opacity:1" />
-      <stop offset="0.506" style="stop-color:#ff0000;stop-opacity:1" />
-      <stop offset="0.508" style="stop-color:#000000;stop-opacity:1" />
-      
-      <stop offset="0.510" style="stop-color:#000000;stop-opacity:1" />
-      <stop offset="0.1000" style="stop-color:#ff0000;stop-opacity:1" />
-      <stop offset="0.514" style="stop-color:#000000;stop-opacity:1" />
+      <stop offset="0.499" style="stop-color:#000000;stop-opacity:0" />
+      <stop offset="0.499" style="stop-color:#ff0000;stop-opacity:1" />
+      <stop offset="0.501" style="stop-color:#ff0000;stop-opacity:1" />
+      <stop offset="0.501" style="stop-color:#000000;stop-opacity:0" />
 
-      <stop offset="0.516" style="stop-color:#000000;stop-opacity:1" />
-      <stop offset="0.580" style="stop-color:#000000;stop-opacity:1" />
-      <stop offset="0.712" style="stop-color:#ff0000;stop-opacity:1" />
-      <stop offset="1.000" style="stop-color:#000000;stop-opacity:1" />
+      <stop offset="0.505" style="stop-color:#000000;stop-opacity:0" />
+      <stop offset="0.505" style="stop-color:#ff0000;stop-opacity:1" />
+      <stop offset="0.507" style="stop-color:#ff0000;stop-opacity:1" />
+      <stop offset="0.507" style="stop-color:#000000;stop-opacity:0" />
+
+      <stop offset="0.511" style="stop-color:#000000;stop-opacity:0" />
+      <stop offset="0.511" style="stop-color:#ff0000;stop-opacity:1" />
+      <stop offset="0.513" style="stop-color:#ff0000;stop-opacity:1" />
+
+      <stop offset="0.513" style="stop-color:#000000;stop-opacity:0" />
+      <stop offset="0.580" style="stop-color:#000000;stop-opacity:0" />
+      <stop offset="0.712" style="stop-color:#ff0000;stop-opacity:0.51" />
+      <stop offset="1.000" style="stop-color:#000000;stop-opacity:0" />
 </linearGradient>
 <linearGradient
    x1="0"
@@ -44,10 +48,16 @@
    y2="1"
    spreadMethod="reflect"
    id="linearGradient1381">
-  <stop style="stop-color:#112244;stop-opacity:1" offset="0.000" />
-  <stop style="stop-color:#112244;stop-opacity:0" offset="1.000" />
+  <stop style="stop-color:#110000;stop-opacity:1" offset="0.000" />
+  <stop style="stop-color:#110000;stop-opacity:0" offset="0.200" />
 </linearGradient>
   </defs>
+  <rect
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0" />
   <rect
      style="fill:url(#linearGradient1382);fill-opacity:1;stroke:none"
      width="1000"
@@ -55,14 +65,14 @@
      x="0"
      y="0" />
   <rect
-     style="fill:url(#linearGradient1382);fill-opacity:0.5;stroke:none"
+     style="fill:url(#linearGradient1382);fill-opacity:1;stroke:none"
      transform="rotate(90)"
      width="1000"
      height="1000"
      x="0"
      y="-1000" />
   <rect
-     style="fill:url(#linearGradient1381);fill-opacity:0.7;stroke:none"
+     style="fill:url(#linearGradient1381);fill-opacity:1;stroke:none"
      width="1000"
      height="1000"
      x="0"

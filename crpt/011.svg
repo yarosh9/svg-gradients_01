@@ -6,66 +6,66 @@
    x2="0"
    y2="0.5"
    spreadMethod="reflect"
-   id="linearGradient1382">
-  <stop style="stop-color:#555555;stop-opacity:0" offset="0.000" />
-  <stop style="stop-color:#555555;stop-opacity:0" offset="0.200" />
-  <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.201" />
-  <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.203" />
-  <stop style="stop-color:#555555;stop-opacity:0" offset="0.204" />
-  <stop style="stop-color:#555555;stop-opacity:0" offset="0.300" />
-  <stop style="stop-color:#000000;stop-opacity:1" offset="0.301" />
-  <stop style="stop-color:#000000;stop-opacity:1" offset="0.303" />
-  <stop style="stop-color:#555555;stop-opacity:0" offset="0.304" />
-  <stop style="stop-color:#555555;stop-opacity:0" offset="0.350" />
-  <stop style="stop-color:#ffffff;stop-opacity:0.5" offset="0.351" />
-  <stop style="stop-color:#ffffff;stop-opacity:0.5" offset="0.383" />
-  <stop style="stop-color:#555555;stop-opacity:0" offset="0.384" />
-  <stop style="stop-color:#555555;stop-opacity:0" offset="0.500" />
-  <stop style="stop-color:#000000;stop-opacity:1" offset="0.501" />
-  <stop style="stop-color:#000000;stop-opacity:1" offset="0.503" />
-  <stop style="stop-color:#555555;stop-opacity:0" offset="0.504" />
-  <stop style="stop-color:#555555;stop-opacity:0" offset="0.510" />
-  <stop style="stop-color:#000000;stop-opacity:1" offset="0.511" />
-  <stop style="stop-color:#000000;stop-opacity:1" offset="0.513" />
-  <stop style="stop-color:#555555;stop-opacity:0" offset="0.514" />
-  <stop style="stop-color:#555555;stop-opacity:0" offset="0.520" />
-  <stop style="stop-color:#000000;stop-opacity:1" offset="0.521" />
-  <stop style="stop-color:#000000;stop-opacity:1" offset="0.523" />
-  <stop style="stop-color:#555555;stop-opacity:0" offset="0.524" />
-  <stop style="stop-color:#555555;stop-opacity:0" offset="0.530" />
-  <stop style="stop-color:#000000;stop-opacity:1" offset="0.531" />
-  <stop style="stop-color:#000000;stop-opacity:1" offset="0.533" />
-  <stop style="stop-color:#555555;stop-opacity:0" offset="0.534" />
-  <stop style="stop-color:#555555;stop-opacity:0" offset="0.560" />
-  <stop style="stop-color:#222222;stop-opacity:0.5" offset="0.561" />
-  <stop style="stop-color:#222222;stop-opacity:0.5" offset="0.598" />
-  <stop style="stop-color:#222222;stop-opacity:0" offset="0.599" />
-  <stop style="stop-color:#222223;stop-opacity:0" offset="0.600" />
-  <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.601" />
-  <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.603" />
-  <stop style="stop-color:#222222;stop-opacity:0.5" offset="0.604" />
-  <stop style="stop-color:#222223;stop-opacity:0.5" offset="0.630" />
-  <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.631" />
-  <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.633" />
-  <stop style="stop-color:#222223;stop-opacity:0.5" offset="0.634" />
-  <stop style="stop-color:#222222;stop-opacity:0.5" offset="0.683" />
-  <stop style="stop-color:#555555;stop-opacity:0.5" offset="0.684" />
-  <stop style="stop-color:#555555;stop-opacity:0.5" offset="0.699" />
-  <stop style="stop-color:#555555;stop-opacity:0.5" offset="0.700" />
-  <stop style="stop-color:#000000;stop-opacity:1"   offset="0.701" />
-  <stop style="stop-color:#000000;stop-opacity:1" offset="0.703" />
-  <stop style="stop-color:#555555;stop-opacity:0.5" offset="0.704" />
-  <stop style="stop-color:#555555;stop-opacity:0.5" offset="0.720" />
-  <stop style="stop-color:#000000;stop-opacity:1"   offset="0.721" />
-  <stop style="stop-color:#000000;stop-opacity:1"   offset="0.723" />
-  <stop style="stop-color:#555555;stop-opacity:0.5" offset="0.724" />
-  <stop style="stop-color:#555555;stop-opacity:0.5" offset="0.740" />
-  <stop style="stop-color:#000000;stop-opacity:1"   offset="0.741" />
-  <stop style="stop-color:#000000;stop-opacity:1"   offset="0.743" />
-  <stop style="stop-color:#555555;stop-opacity:0.5" offset="0.744" />
-  <stop style="stop-color:#555555;stop-opacity:0.5" offset="0.884" />
-  <stop style="stop-color:#000000;stop-opacity:0" offset="0.885" />
-  <stop style="stop-color:#555555;stop-opacity:0" offset="1.000" />
+   id="lg00">
+  <stop style="stop-color:#555555;stop-opacity:0.0" offset="0.000" />
+  <stop style="stop-color:#555555;stop-opacity:0.0" offset="0.200" />
+  <stop style="stop-color:#ffffff;stop-opacity:0.52" offset="0.201" />
+  <stop style="stop-color:#ffffff;stop-opacity:0.52" offset="0.203" />
+  <stop style="stop-color:#555555;stop-opacity:0.0" offset="0.204" />
+  <stop style="stop-color:#555555;stop-opacity:0.0" offset="0.300" />
+  <stop style="stop-color:#000000;stop-opacity:0.52" offset="0.301" />
+  <stop style="stop-color:#000000;stop-opacity:0.52" offset="0.303" />
+  <stop style="stop-color:#555555;stop-opacity:0.0" offset="0.304" />
+  <stop style="stop-color:#555555;stop-opacity:0.0" offset="0.350" />
+  <stop style="stop-color:#ffffff;stop-opacity:0.1" offset="0.351" />
+  <stop style="stop-color:#ffffff;stop-opacity:0.1" offset="0.383" />
+  <stop style="stop-color:#555555;stop-opacity:0.0" offset="0.384" />
+  <stop style="stop-color:#555555;stop-opacity:0.0" offset="0.500" />
+  <stop style="stop-color:#000000;stop-opacity:0.52" offset="0.501" />
+  <stop style="stop-color:#000000;stop-opacity:0.2" offset="0.503" />
+  <stop style="stop-color:#555555;stop-opacity:0.0" offset="0.504" />
+  <stop style="stop-color:#555555;stop-opacity:0.0" offset="0.510" />
+  <stop style="stop-color:#000000;stop-opacity:0.52" offset="0.511" />
+  <stop style="stop-color:#000000;stop-opacity:0.52" offset="0.513" />
+  <stop style="stop-color:#555555;stop-opacity:0.0" offset="0.514" />
+  <stop style="stop-color:#555555;stop-opacity:0.0" offset="0.520" />
+  <stop style="stop-color:#000000;stop-opacity:0.52" offset="0.521" />
+  <stop style="stop-color:#000000;stop-opacity:0.52" offset="0.523" />
+  <stop style="stop-color:#555555;stop-opacity:0.0" offset="0.524" />
+  <stop style="stop-color:#555555;stop-opacity:0.0" offset="0.530" />
+  <stop style="stop-color:#000000;stop-opacity:0.52" offset="0.531" />
+  <stop style="stop-color:#000000;stop-opacity:0.52" offset="0.533" />
+  <stop style="stop-color:#555555;stop-opacity:0.0" offset="0.534" />
+  <stop style="stop-color:#555555;stop-opacity:0.0" offset="0.560" />
+  <stop style="stop-color:#222222;stop-opacity:0.1" offset="0.561" />
+  <stop style="stop-color:#222222;stop-opacity:0.1" offset="0.598" />
+  <stop style="stop-color:#222222;stop-opacity:0.0" offset="0.599" />
+  <stop style="stop-color:#222223;stop-opacity:0.0" offset="0.600" />
+  <stop style="stop-color:#ffffff;stop-opacity:0.52" offset="0.601" />
+  <stop style="stop-color:#ffffff;stop-opacity:0.2" offset="0.603" />
+  <stop style="stop-color:#222222;stop-opacity:0.1" offset="0.604" />
+  <stop style="stop-color:#222223;stop-opacity:0.1" offset="0.630" />
+  <stop style="stop-color:#ffffff;stop-opacity:0.52" offset="0.631" />
+  <stop style="stop-color:#ffffff;stop-opacity:0.52" offset="0.633" />
+  <stop style="stop-color:#222223;stop-opacity:0.1" offset="0.634" />
+  <stop style="stop-color:#222222;stop-opacity:0.1" offset="0.683" />
+  <stop style="stop-color:#555555;stop-opacity:0.1" offset="0.684" />
+  <stop style="stop-color:#555555;stop-opacity:0.1" offset="0.699" />
+  <stop style="stop-color:#555555;stop-opacity:0.1" offset="0.700" />
+  <stop style="stop-color:#000000;stop-opacity:0.52" offset="0.701" />
+  <stop style="stop-color:#000000;stop-opacity:0.52" offset="0.703" />
+  <stop style="stop-color:#555555;stop-opacity:0.1" offset="0.704" />
+  <stop style="stop-color:#555555;stop-opacity:0.1" offset="0.720" />
+  <stop style="stop-color:#000000;stop-opacity:0.52" offset="0.721" />
+  <stop style="stop-color:#000000;stop-opacity:0.52" offset="0.723" />
+  <stop style="stop-color:#555555;stop-opacity:0.1" offset="0.724" />
+  <stop style="stop-color:#555555;stop-opacity:0.1" offset="0.740" />
+  <stop style="stop-color:#000000;stop-opacity:0.52" offset="0.741" />
+  <stop style="stop-color:#000000;stop-opacity:0.52" offset="0.743" />
+  <stop style="stop-color:#555555;stop-opacity:0.1" offset="0.744" />
+  <stop style="stop-color:#555555;stop-opacity:0.1" offset="0.884" />
+  <stop style="stop-color:#000000;stop-opacity:0.0" offset="0.885" />
+  <stop style="stop-color:#555555;stop-opacity:0.0" offset="1.000" />
 </linearGradient>
 <linearGradient
    x1="0"
@@ -73,44 +73,148 @@
    x2="0"
    y2="0.5"
    spreadMethod="reflect"
-   id="linearGradient1381">
-  <stop style="stop-color:#221100;stop-opacity:1" offset="0.000" />
+   gradientTransform="scale(1 1) rotate(0 0 0)"
+   id="lg01">
+  <stop style="stop-color:#bb4400;stop-opacity:1" offset="0.000" />
+  <stop style="stop-color:#ff8800;stop-opacity:1" offset="0.500" />
+  <stop style="stop-color:#000000;stop-opacity:1" offset="0.500" />
+  <stop style="stop-color:#000000;stop-opacity:1" offset="0.700" />
   <stop style="stop-color:#ff8800;stop-opacity:1" offset="1.000" />
 </linearGradient>
+
 <linearGradient
+   x1="0"
+   y1="0"
+   x2="0.1"
+   y2="0.1"
+   spreadMethod="reflect"
+   id="lgdio">
+  <stop style="stop-color:#ff00ff;stop-opacity:1" offset="0.000" />
+  <stop style="stop-color:#ffff00;stop-opacity:1" offset="1.000" />
+</linearGradient>
+<linearGradient
+   xlink:href="#lg00"
    x1="0"
    y1="0"
    x2="0.5"
    y2="0"
    spreadMethod="reflect"
-   id="linearGradient1380">
-  <stop style="stop-color:#221100;stop-opacity:1" offset="0.000" />
-  <stop style="stop-color:#ff8800;stop-opacity:1" offset="1.000" />
+   gradientTransform=" scale(0.25 1)"
+   id="lg02">
 </linearGradient>
+<linearGradient
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   spreadMethod="reflect"
+   id="lg03">
+  <stop style="stop-color:#000000;stop-opacity:1" offset="0.000" />
+  <stop style="stop-color:#000000;stop-opacity:1" offset="0.490" />
+  <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.490" />
+  <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.510" />
+  <stop style="stop-color:#000000;stop-opacity:1" offset="0.510" />
+  <stop style="stop-color:#000000;stop-opacity:1" offset="1.000" />
+</linearGradient>
+    <filter id="verticalBlur" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8 8" />
+      '8 - размытие по Х, 8 - размытие по У'
+      *или такой комментарий*
+    </filter>
+<mask id="mrp" maskUnits="userSpaceOnUse">
+   <rect
+     style="fill:url(#lg03);fill-opacity:1;stroke:none"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0" />
+</mask>
+<mask id="mrr" maskUnits="userSpaceOnUse">
+   <rect
+     style="fill:url(#lg00);fill-opacity:1;stroke:none"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0" />
+</mask>
   </defs>
   <rect
-     style="fill:url(#linearGradient1381);fill-opacity:1;stroke:none"
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0" />
+
+
+  <rect
+     style="fill:url(#lg01);fill-opacity:1;stroke:none"
+     transform="rotate(90 500 500)"
      width="1000"
      height="1000"
      x="0"
      y="0" />
   <rect
-     style="fill:url(#linearGradient1380);fill-opacity:0.5;stroke:none"
+     style="fill:url(#lg01);fill-opacity:0.5;stroke:none"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0" />
+
+  <rect
+     style="fill:url(#lg02);fill-opacity:0.91;stroke:none"
      width="1000"
      height="1000"
      x="0"
      y="0" />
   <rect
-     style="fill:url(#linearGradient1382);fill-opacity:0.2;stroke:none"
+     style="fill:url(#lg02);fill-opacity:0.91;stroke:none"
+     transform="rotate(90 500 500)"
      width="1000"
      height="1000"
      x="0"
-     y="0"/>
+     y="0" />
+
   <rect
-     style="fill:url(#linearGradient1382);fill-opacity:0.2;stroke:none"
-     transform="rotate(90)"
+     style="fill:url(#lgdio);fill-opacity:0.7;stroke:none; mask:url(#mrr);"
+     transform="rotate(90 500 500)"
      width="1000"
      height="1000"
      x="0"
-     y="-1000" />
+     y="0" />
+  <rect
+     style="fill:url(#lgdio);fill-opacity:0.7;stroke:none; mask:url(#mrr);"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0" />
+
+
+<g filter="url(#verticalBlur)" transform="translate(500 500) scale(3 3) translate(-500 -500)">
+  <rect
+     style="fill:url(#lg01);fill-opacity:0.4;stroke:none;mask:url(#mrp);"
+     transform="rotate(90 500 500)"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0" />
+  <rect
+     style="fill:url(#lg01);fill-opacity:0.4;stroke:none;mask:url(#mrp);"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0" />
+</g>
+  <rect
+     style="fill:url(#lg01);fill-opacity:1;stroke:none;mask:url(#mrp);"
+     transform="rotate(90 500 500)"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0" />
+  <rect
+     style="fill:url(#lg01);fill-opacity:1;stroke:none;mask:url(#mrp);"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0" />
 </svg>

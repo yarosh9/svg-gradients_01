@@ -1,77 +1,51 @@
-<svg width="100%" height="100%" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <linearGradient
-       x1="0"
-       y1="0"
-       x2="0"
-       y2="1"
-       id="linearGradient1382"
-       spreadMethod="reflect">
-      <stop style="stop-color:#ff0000;stop-opacity:1" offset="0.000" />
-      <stop style="stop-color:#110000;stop-opacity:0" offset="0.010" />
-      <stop style="stop-color:#110000;stop-opacity:1" offset="1.000" />
-    </linearGradient>
-    <linearGradient
-       x1="0"
-       y1="1"
-       x2="0"
-       y2="0"
-       id="mask"
-       spreadMethod="reflect">
-      <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.000" />
-      <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.600" />
-      <stop style="stop-color:#000000;stop-opacity:1" offset="0.600" />
-      <stop style="stop-color:#000000;stop-opacity:1" offset="1.000" />
-    </linearGradient>
-    <linearGradient
-       x1="0"
-       y1="0.85"
-       x2="0"
-       y2="0"
-       id="linearGradient1383"
-       spreadMethod="reflect">
-      <stop style="stop-color:#aa0000;stop-opacity:1" offset="0.000" />
-      <stop style="stop-color:#000000;stop-opacity:1" offset="0.900" />
-      <stop style="stop-color:#000000;stop-opacity:1" offset="1.000" />
-    </linearGradient>
-    <radialGradient
-       xlink:href="#mask"
-       gradientUnits="objectBoundingBox"
-       cx="0.5"
-       cy="0.5"
-       fx="0.5"
-       fy="0.5"
-       r="0.003"
-       id="maskr" />
-    <radialGradient
-       xlink:href="#linearGradient1382"
-       gradientUnits="objectBoundingBox"
-       cx="0.5"
-       cy="0.5"
-       fx="0.5"
-       fy="0.5"
-       r="0.11"
-       id="radial2" />
-    <mask id="mrr" maskUnits="userSpaceOnUse">
-        <rect
-         style="fill:url(#maskr);fill-opacity:1;stroke:none"
-         width="1000"
-         height="1000"
-         x="0"
-         y="0" />
-    </mask>
-  </defs>
-  <rect
-     style="fill:url(#linearGradient1383);fill-opacity:1;stroke:none"
-     width="1000"
-     height="1000"
-     x="0"
-     y="0" />
-  <rect
-     style="fill:url(#radial2);fill-opacity:1;stroke:none"
-     mask="url(#mrr)"
-     width="1000"
-     height="1000"
-     x="0"
-     y="0" />
+<svg width="100%" height="100%" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet"
+    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <radialGradient id="pure_red_16" cx="500" cy="500" r="2.5" gradientUnits="userSpaceOnUse"  spreadMethod="reflect">
+<stop offset="0%" stop-color="#cc0000" stop-opacity="0.5"/>
+<stop offset="6.6%" stop-color="#c10000" stop-opacity="0.5"/>
+<stop offset="13.3%" stop-color="#b60000" stop-opacity="0.5"/>
+<stop offset="20%" stop-color="#ab0000" stop-opacity="0.5"/>
+<stop offset="26.6%" stop-color="#a00000" stop-opacity="0.5"/>
+<stop offset="33.3%" stop-color="#950000" stop-opacity="0.5"/>
+<stop offset="40%" stop-color="#8a0000" stop-opacity="0.5"/>
+<stop offset="46.6%" stop-color="#7f0000" stop-opacity="0.5"/>
+<stop offset="53.3%" stop-color="#740000" stop-opacity="0.5"/>
+<stop offset="60%" stop-color="#690000" stop-opacity="0.5"/>
+<stop offset="66.6%" stop-color="#5e0000" stop-opacity="0.5"/>
+<stop offset="73.3%" stop-color="#530000" stop-opacity="0.5"/>
+<stop offset="80%" stop-color="#480000" stop-opacity="0.5"/>
+<stop offset="86.6%" stop-color="#3d0000" stop-opacity="0.5"/>
+<stop offset="93.3%" stop-color="#380000" stop-opacity="0.5"/>
+<stop offset="100%" stop-color="#330000" stop-opacity="0.5"/>
+        </radialGradient>
+        <radialGradient id="pure_red_17" cx="500" cy="500" r="105" gradientUnits="userSpaceOnUse"  spreadMethod="reflect">
+<stop offset="0%" stop-color="#cc0000" stop-opacity="0.5"/>
+<stop offset="6.6%" stop-color="#c10000" stop-opacity="0.5"/>
+<stop offset="13.3%" stop-color="#b60000" stop-opacity="0.5"/>
+<stop offset="20%" stop-color="#ab0000" stop-opacity="0.5"/>
+<stop offset="26.6%" stop-color="#a00000" stop-opacity="0.5"/>
+<stop offset="33.3%" stop-color="#950000" stop-opacity="0.5"/>
+<stop offset="40%" stop-color="#8a0000" stop-opacity="0.5"/>
+<stop offset="46.6%" stop-color="#7f0000" stop-opacity="0.5"/>
+<stop offset="53.3%" stop-color="#740000" stop-opacity="0.5"/>
+<stop offset="60%" stop-color="#690000" stop-opacity="0.5"/>
+<stop offset="66.6%" stop-color="#5e0000" stop-opacity="0.5"/>
+<stop offset="73.3%" stop-color="#530000" stop-opacity="0.5"/>
+<stop offset="80%" stop-color="#480000" stop-opacity="0.5"/>
+<stop offset="86.6%" stop-color="#3d0000" stop-opacity="0.5"/>
+<stop offset="93.3%" stop-color="#380000" stop-opacity="0.5"/>
+<stop offset="100%" stop-color="#330000" stop-opacity="0.5"/>
+        </radialGradient>
+        <radialGradient id="pure_red_18" cx="500" cy="500" r="105" gradientUnits="userSpaceOnUse"  spreadMethod="reflect">
+<stop offset="0%" stop-color="#ff0000" stop-opacity="1"/>
+<stop offset="0.2%" stop-color="#ff0000" stop-opacity="1"/>
+<stop offset="0.2%" stop-color="#000000" stop-opacity="0.0"/>
+<stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+        </radialGradient>
+    </defs>
+    <rect width="1000" height="1000" fill="#000000" />
+    <rect width="1000" height="1000" fill="url(#pure_red_16)" />
+    <rect width="1000" height="1000" fill="url(#pure_red_17)" />
+    <rect width="1000" height="1000" fill="url(#pure_red_18)" />
 </svg>
