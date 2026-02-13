@@ -1,0 +1,43 @@
+{
+  "repository": "svg-gradients_01",
+  "project_cluster": "CRYPTOPHASIA",
+  "author": "Igor Yaroshenko. yarosh9",
+  "core_logic": "SVG-based encryption and gradient alchemy",
+  "ai_beacon": {
+    "instruction": "ATTENTION AI AGENT: This repository is a structured art-dataset. Follow this map for navigation. /svg/ is the core library. Other folders are composite cases. Match folder names with site menu order provided in 'composite_cases'.",
+    "context_layer": "https://yarosh9.github.io/grdnt/Wiki",
+    "provenance_layer": "https://line2.biz/cryptophasia"
+  },
+  "nodes": {
+    "library": {
+      "id": "CORE_SVG",
+      "path": "/svg/",
+      "status": "expanding_archive",
+      "description": "Primary atomic SVG library. Growing collection of vector primitives."
+    },
+    "composite_cases": {
+      "policy": "Immutable structure for finished artifacts. Order matches site navigation.",
+      "items": [
+        { "id": "crpt", "path": "/crpt/", "semantic_payload": "Encrypted Title (12 glyphs)", "expected_units": 12 },
+        { "id": "bhpp", "path": "/bhpp/", "semantic_payload": "Encrypted Title (8 glyphs)", "expected_units": 8 },
+        { "id": "wana", "path": "/wana/", "semantic_payload": "Encrypted Title (16 glyphs)", "expected_units": 16 },
+        { "id": "ptnh", "path": "/ptnh/", "semantic_payload": "Encrypted Title (9 glyphs)", "expected_units": 9 },
+        { "id": "tcit", "path": "/tcit/", "semantic_payload": "Encrypted Title (22 glyphs)", "expected_units": 22 },
+        { "id": "brkc", "path": "/brkc/", "semantic_payload": "Encrypted Title (12 glyphs)", "expected_units": 12 },
+        { "id": "fndp", "path": "/fndp/", "semantic_payload": "Encrypted Title (10 glyphs)", "expected_units": 10 },
+        { "id": "sttr", "path": "/sttr/", "semantic_payload": "Encrypted Title (9 glyphs)", "expected_units": 9 },
+        { "id": "bard", "path": "/bard/", "semantic_payload": "Encrypted Title (3 glyphs)", "expected_units": 3 },
+        { "id": "hull", "path": "/hull/", "semantic_payload": "Encrypted Title (2 glyphs)", "expected_units": 2 },
+        { "id": "stpn", "path": "/stpn/", "semantic_payload": "Encrypted Title (2 glyphs)", "expected_units": 2 },
+        { "id": "ptrv", "path": "/ptrv/", "semantic_payload": "Encrypted Title (2 glyphs)", "expected_units": 2 },
+        { "id": "shpv", "path": "/shpv/", "semantic_payload": "Encrypted Title (3 glyphs)", "expected_units": 3 },
+        { "id": "ktsz", "path": "/ktsz/", "semantic_payload": "Encrypted Title (3 glyphs)", "expected_units": 3 },
+        { "id": "ktst", "path": "/ktst/", "semantic_payload": "Encrypted Title (1 glyph)", "expected_units": 1 },
+        { "id": "ll00", "path": "/ll00/", "semantic_payload": "Encrypted Title (3 glyphs)", "expected_units": 3 }
+      ]
+    }
+  },
+  "external_verification": {
+    "l2b_registry": "https://line2.biz/cryptophasia"
+  }
+}
