@@ -1,0 +1,93 @@
+<svg width="100%" height="100%" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+  <linearGradient id="fon" x1="0" y1="0" y2="0" x2="1" spreadMethod="reflect">
+    <stop style="stop-color:#004477;stop-opacity:1" offset="0" />
+    <stop style="stop-color:#000102;stop-opacity:1" offset="0.5" />
+    <stop style="stop-color:#004477;stop-opacity:1" offset="1" />
+  </linearGradient>
+  <linearGradient id="fom" x1="0.005" y1="0" y2="0" x2="0" spreadMethod="reflect">
+    <stop style="stop-color:#000000;stop-opacity:0" offset="0" />
+    <stop style="stop-color:#000000;stop-opacity:0" offset="0.8" />
+    <stop style="stop-color:#00ccff;stop-opacity:0.3" offset="0.8" />
+    <stop style="stop-color:#00ccff;stop-opacity:0.3" offset="1" />
+  </linearGradient>
+
+  <linearGradient id="fatmaskGR" x1="0" y1="0" y2="0" x2="0.0125" spreadMethod="reflect">
+    <stop style="stop-color:#00aabb;stop-opacity:1" offset="0" />
+    <stop style="stop-color:#002222;stop-opacity:1" offset="1" />
+  </linearGradient>
+  <linearGradient id="fatmask" x1="0.5" y1="0" y2="0" x2="0" spreadMethod="reflect">
+    <stop style="stop-color:#ffffff;stop-opacity:1" offset="0" />
+    <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.023" />
+    <stop style="stop-color:#000000;stop-opacity:1" offset="0.023" />
+    <stop style="stop-color:#000000;stop-opacity:1" offset="1" />
+  </linearGradient>
+
+  <linearGradient id="thindarkmaskGR1" y2="0.5" x2="0.5" x1="0" y1="0" spreadMethod="reflect">
+    <stop style="stop-color:#000000;stop-opacity:0" offset="0" />
+    <stop style="stop-color:#000000;stop-opacity:0.00" offset="0.7" />
+    <stop style="stop-color:#ff0022;stop-opacity:0.1" offset="0.7" />
+    <stop style="stop-color:#ff0022;stop-opacity:0.1" offset="0.8" />
+    <stop style="stop-color:#000000;stop-opacity:0.00" offset="0.8" />
+    <stop style="stop-color:#000000;stop-opacity:0" offset="0.999" />
+    <stop style="stop-color:#ff0022;stop-opacity:1" offset="0.999" />
+    <stop style="stop-color:#ff0022;stop-opacity:1" offset="1" />
+  </linearGradient>
+
+  <linearGradient id="thindarkmaskGR" y2="0" x2="0.5" x1="0" y1="0" spreadMethod="reflect">
+    <stop style="stop-color:#000000;stop-opacity:0" offset="0" />
+    <stop style="stop-color:#000000;stop-opacity:0" offset="0.001" />
+    <stop style="stop-color:#aa0022;stop-opacity:0.99" offset="1" />
+  </linearGradient>
+  <linearGradient id="thindarkmask" y1="0.0005" x1="0" x2="0.0005" y2="0" spreadMethod="reflect">
+    <stop style="stop-color:#ffffff;stop-opacity:1" offset="0" />
+    <stop style="stop-color:#111111;stop-opacity:1" offset="1" />
+  </linearGradient>
+  <linearGradient id="rastr000" x1="0" y1="0" y2="0.5" x2="0.5" spreadMethod="reflect">
+    <stop style="stop-color:#000000;stop-opacity:0" offset="0" />
+    <stop style="stop-color:#000000;stop-opacity:0" offset="0.5" />
+    <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.5" />
+    <stop style="stop-color:#ffffff;stop-opacity:1" offset="1" />
+  </linearGradient>
+  <linearGradient id="rastr001" x1="0" y1="0" y2="0.5" x2="0.5" spreadMethod="reflect">
+    <stop style="stop-color:#000000;stop-opacity:0" offset="0" />
+    <stop style="stop-color:#000000;stop-opacity:0" offset="0.6" />
+    <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.6" />
+    <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.90" />
+    <stop style="stop-color:#000000;stop-opacity:0" offset="0.90" />
+    <stop style="stop-color:#000000;stop-opacity:0" offset="0.98" />
+    <stop style="stop-color:#ffffff;stop-opacity:1" offset="0.98" />
+    <stop style="stop-color:#ffffff;stop-opacity:1" offset="1" />
+  </linearGradient>
+
+
+
+  <mask id="Mask1">
+    <rect style="fill:url(#fatmask);fill-opacity:1;stroke:none" width="1000" height="1000" x="0" y="0" />
+  </mask>
+  <mask id="Mask2">
+    <rect style="fill:url(#thindarkmask);fill-opacity:1;stroke:none" width="1000" height="1000" x="0" y="0" />
+  </mask>
+
+
+  <mask id="Mask3">
+    <rect style="fill:url(#rastr000);fill-opacity:1;stroke:none" width="1000" height="1000" x="0" y="0" />
+    <rect style="fill:url(#rastr000);fill-opacity:1;stroke:none" width="1000" height="1000" x="0" y="0"  transform="rotate(90, 500, 500)" />
+  </mask>
+  <mask id="Mask4">
+    <rect style="fill:url(#rastr001);fill-opacity:1;stroke:none" width="1000" height="1000" x="0" y="0" />
+    <rect style="fill:url(#rastr001);fill-opacity:1;stroke:none" width="1000" height="1000" x="0" y="0"  transform="rotate(90, 500, 500)" />
+  </mask>
+</defs>
+
+<rect style="fill:url(#fon);fill-opacity:1;stroke:none" width="1000" height="1000" x="0" y="0" />
+<rect style="fill:url(#fom);fill-opacity:1;stroke:none" width="1000" height="1000" x="0" y="0" />
+
+<rect style="fill:url(#thindarkmaskGR);mask:url(#Mask3);fill-opacity:0.71;stroke:none" width="1000" height="1000" x="0" y="0" />
+<rect style="fill:url(#thindarkmaskGR);mask:url(#Mask4);fill-opacity:1;stroke:none" width="1000" height="1000" x="0" y="0" transform="rotate(90, 500, 500)" />
+
+<rect style="fill:url(#thindarkmaskGR1);fill-opacity:1;stroke:none" width="1000" height="1000" x="0" y="0" />
+<rect style="fill:url(#thindarkmaskGR1);fill-opacity:1;stroke:none" width="1000" height="1000" x="0" y="0" transform="rotate(90, 500, 500)" />
+
+<rect style="fill:url(#fatmaskGR);mask:url(#Mask1);fill-opacity:0.8;stroke:none" width="1000" height="1000" x="0" y="0" />
+</svg>
