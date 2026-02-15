@@ -1,9 +1,9 @@
 <svg width="100%" height="100%" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <linearGradient id="linearGradient7">
-      <stop offset="0.000" style="stop-color:#001122;stop-opacity:1" />
+    <linearGradient id="lg00">
+      <stop offset="0.000" style="stop-color:#001122;stop-opacity:0" />
       <stop offset="0.088" style="stop-color:#00ffff;stop-opacity:1" />
-      <stop offset="0.420" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.420" style="stop-color:#002233;stop-opacity:1" />
       <stop offset="0.484" style="stop-color:#001122;stop-opacity:1" />
 
       <stop offset="0.486" style="stop-color:#001122;stop-opacity:1" />
@@ -23,13 +23,20 @@
       <stop offset="0.508" style="stop-color:#001122;stop-opacity:1" />
       
       <stop offset="0.510" style="stop-color:#001122;stop-opacity:1" />
-      <stop offset="0.1000" style="stop-color:#00ffff;stop-opacity:1" />
+      <stop offset="0.512" style="stop-color:#00ffff;stop-opacity:1" />
       <stop offset="0.514" style="stop-color:#001122;stop-opacity:1" />
 
       <stop offset="0.516" style="stop-color:#001122;stop-opacity:1" />
-      <stop offset="0.580" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.580" style="stop-color:#002233;stop-opacity:1" />
       <stop offset="0.912" style="stop-color:#00ffff;stop-opacity:1" />
-      <stop offset="1.000" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="1.000" style="stop-color:#001122;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient 
+      id="lgf" 
+      xlink:href="#lg00"
+      x1="1" y1="0" x2="0" y2="0"
+      gradientTransform="scale(0.2 1)"
+      spreadMethod="no" >
     </linearGradient>
   </defs>
   <rect
@@ -37,13 +44,48 @@
      x="0"
      height="1000"
      width="1000"
-     style="fill:url(#linearGradient7);stroke:none"
+     style="fill:#001122;stroke:none;opacity:1"
+     transform="rotate(0)" />
+  <rect
+     y="0"
+     x="0"
+     height="1000"
+     width="1000"
+     style="fill:url(#lg00);stroke:none"
      transform="rotate(90, 500, 500)" />
   <rect
      y="0"
      x="0"
      height="1000"
      width="1000"
-     style="fill:url(#linearGradient7);stroke:none;opacity:0.5"
+     style="fill:url(#lg00);stroke:none;opacity:0.5"
+     transform="rotate(0)" />
+  <rect
+     y="0"
+     x="0"
+     height="1000"
+     width="1000"
+     style="fill:url(#lgf);stroke:none;opacity:0.05"
+     transform="rotate(90, 500, 500)" />
+  <rect
+     y="0"
+     x="0"
+     height="1000"
+     width="1000"
+     style="fill:url(#lgf);stroke:none;opacity:0.05"
+     transform="rotate(180, 500, 500)" />
+  <rect
+     y="0"
+     x="0"
+     height="1000"
+     width="1000"
+     style="fill:url(#lgf);stroke:none;opacity:0.05"
+     transform="rotate(270, 500, 500)" />
+  <rect
+     y="0"
+     x="0"
+     height="1000"
+     width="1000"
+     style="fill:url(#lgf);stroke:none;opacity:0.05"
      transform="rotate(0)" />
 </svg>
