@@ -4,6 +4,19 @@
 ### by Igor Yaroshenko 
 [author verification](https://line2.biz/about_me.json)
 
+---
+
+### 01. CRYPTOPHASIA
+**Focus:** Visual Linguistics & Informed Naive Encryption
+A demonstrative, "naive" escape from excessive state control and privacy violations. It is a "Children’s Crusade" (cf. Kurt Vonnegut) against the dictates of the adult world. Embracing the *Informed Naivety* of Metamodernism, the project utilizes a vibrant yet simple cipher—a fusion of crypto-anarchy and cypherpunk aesthetics.
+
+* **Core Data:** [svg-gradients_01](https://github.com/yarosh9/svg-gradients_01)
+* **Web Interface:** [grdnt](https://yarosh9.github.io/grdnt/)
+* **Knowledge Base:** [Project Wiki](https://github.com/yarosh9/grdnt/wiki)
+* **Provenance Layer** [cryptophasia](https://line2.biz/cryptophasia)
+
+---
+
 An exploration of **vector gradients** and the creation of collections from them is an attempt to study the digital alchemy that creates an infinitely beautiful world on our screens. Numbers collected into code are a new nature permeating our material reality. Gradients are a reflection on how simple code can be beautiful and how little is needed for this.
 [Gradients](./svg)
 * Other folders contain gradients for sets.
@@ -37,6 +50,7 @@ Great appreciation to **Cy Twombly**, whose works and philosophy have inspired a
 The ecosystem is integrated via a unified **Metadata Standard**. Every repository is guided by a `project_map.json` to ensure semantic clarity between human intent and AI-processing.
 
 Identity verified by RS_973 Protocol: [Provenance Layer](https://line2.biz/rs_973.json)
+
 ---
 © 2026 Igor Yaroshenko. All rights reserved.
 #### License
